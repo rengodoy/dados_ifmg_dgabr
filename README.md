@@ -9,6 +9,7 @@
 ├── DGABr_IFMG_Final.xlsx  # Planilha com os resultados consolidados da análise
 ├── pyproject.toml         # Definição de dependências (gerenciado pelo uv)
 └── .env_example           # Modelo para configuração do ambiente
+```
 
 ## Para rodar o script seguem as instruções
 
