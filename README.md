@@ -1,12 +1,23 @@
-# dga-api
+# Repositório auxiliar para a dissertação de mestrado
 
-Este projeto extrai conjuntos de dados do portal CKAN do IFMG.
+### Estrutura do Repositório
 
-## Pré-requisitos
+```text
+.
+├── dados_ifmg_ckan/       # Dados brutos extraídos (organizados por ID)
+├── download_ckan.py       # Script principal de extração
+├── DGABr_IFMG_Final.xlsx  # Planilha com os resultados consolidados da análise
+├── pyproject.toml         # Definição de dependências (gerenciado pelo uv)
+└── .env_example           # Modelo para configuração do ambiente
+
+## Para rodar o script seguem as instruções
+
+### Pré-requisitos
+- uv
 - Python `>=3.14`
 - Dependências do projeto instaladas (veja `pyproject.toml`).
 
-## Configuração
+### Configuração
 
 O script utiliza variáveis de ambiente para configuração. Crie um arquivo `.env` na raiz do projeto (baseado no `.env_example`) e ajuste conforme necessário:
 
@@ -23,7 +34,7 @@ As variáveis disponíveis são:
 - `CKAN_RETRIES`: Número de tentativas em caso de falha
 - `CKAN_BACKOFF_BASE`: Base para cálculo do backoff exponencial
 
-## Uso
+### Uso
 
 Para executar o script de download e coleta de dados do CKAN:
 
@@ -37,3 +48,4 @@ O script irá:
 3. Baixar metadados (`metadata.json`) e recursos (arquivos de dados) para cada dataset.
 4. Organizar os arquivos em pastas por ID do dataset dentro de `CKAN_OUTPUT_DIR`.
 5. Gerar um relatório de status dos downloads (`resource_status.json`).
+ 
