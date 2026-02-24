@@ -1,0 +1,29 @@
+{
+  "dataset": "portarias-publicadas-pela-reitoria-do-ifmg-2023",
+  "resources": [
+    {
+      "id": "ad58a05d-99fb-4bf8-a13f-bc8a6f0dc206",
+      "name": "Portarias 2023",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/95ea0b18-7122-417d-9b2f-0768ab4b0c56/resource/ad58a05d-99fb-4bf8-a13f-bc8a6f0dc206/download/conjunto-de-dados-portarias-publicadas-pelo-gabinete-da-reitoria-do-ifmg-em-2023.csv",
+      "saved_path": "dados_ifmg_ckan/portarias-publicadas-pela-reitoria-do-ifmg-2023/resources/conjunto-de-dados-portarias-publicadas-pelo-gabinete-da-reitoria-do-ifmg-em-2023.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "2cd1fae2-c5ee-4277-b845-ed2c27d1ed6e",
+      "name": "Portarias 2023",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/95ea0b18-7122-417d-9b2f-0768ab4b0c56/resource/2cd1fae2-c5ee-4277-b845-ed2c27d1ed6e/download/conjunto-de-dados-portarias-publicadas-pelo-gabinete-da-reitoria-do-ifmg-em-2023.html",
+      "saved_path": "dados_ifmg_ckan/portarias-publicadas-pela-reitoria-do-ifmg-2023/resources/conjunto-de-dados-portarias-publicadas-pelo-gabinete-da-reitoria-do-ifmg-em-2023.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "6c029897-1d13-40e8-94a8-cc8e3cd07bca",
+      "name": "Portarias 2023",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/95ea0b18-7122-417d-9b2f-0768ab4b0c56/resource/6c029897-1d13-40e8-94a8-cc8e3cd07bca/download/conjunto-de-dados-portarias-publicadas-pelo-gabinete-da-reitoria-do-ifmg-em-2023.json",
+      "saved_path": "dados_ifmg_ckan/portarias-publicadas-pela-reitoria-do-ifmg-2023/resources/conjunto-de-dados-portarias-publicadas-pelo-gabinete-da-reitoria-do-ifmg-em-2023.json",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

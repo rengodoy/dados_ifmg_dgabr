@@ -1,0 +1,117 @@
+campus,nivel-de-ensino,curso,matriculas-iniciais,modalidade-de-oferta
+Arcos,Tecnico Integrado,Tecnico em Mecanica,58,Presencial
+Arcos,Graduacao,Engenharia Mecanica,73,Presencial
+Betim,Tecnico Integrado,Tecnico em Mecanica,62,Presencial
+Betim,Tecnico Integrado,Automacao Industrial,62,Presencial
+Betim,Tecnico Integrado,Quimica,66,Presencial
+Betim,Graduacao,Engenharia de Controle e Automacao,32,Presencial
+Betim,Graduacao,Engenharia Mecanica,34,Presencial
+Congonhas,Tecnico Integrado,Edificacoes,35,Presencial
+Congonhas,Tecnico Integrado,Mecanica,29,Presencial
+Congonhas,Tecnico Integrado,Mineracao,35,Presencial
+Congonhas,Tecnico Subsequente,Edificacoes,31,Presencial
+Congonhas,Tecnico Subsequente,Mecanica,25,Presencial
+Congonhas,Tecnico Subsequente,Mineracao,34,Presencial
+Congonhas,Graduacao,Engenharia Mecanica,4,Presencial
+Congonhas,Graduacao,Engenharia de Producao,41,Presencial
+Congonhas,Licenciatura,Fisica,16,Presencial
+Congonhas,Licenciatura,Letras,28,Presencial
+Ibirite,Tecnico Integrado,Automacao Industrial,82,Presencial
+Ibirite,Tecnico Integrado,Mecatronica,41,Presencial
+Ibirite,Tecnico Integrado,Sistemas de Energias Renovaveis,40,Presencial
+Ibirite,Graduacao,Engenharia de Controle e Automacao,42,Presencial
+Ipatinga,Tecnico Integrado,Automacao Industrial,41,Presencial
+Ipatinga,Tecnico Integrado,Eletrotecnica,40,Presencial
+Ipatinga,Graduacao,Engenharia Eletrica,42,Presencial
+Piumhi,Tecnico Integrado,Edificacoes,83,Presencial
+Piumhi,Bacharelado,Engenharia Civil,29,Presencial
+Ouro Preto,Tecnico Integrado,Administracao,48,Presencial
+Ouro Preto,Tecnico Integrado,Automacao Industrial,72,Presencial
+Ouro Preto,Tecnico Integrado,Edficacoes,80,Presencial
+Ouro Preto,Tecnico Integrado,Metalurgia,79,Presencial
+Ouro Preto,Tecnico Integrado,Mineracao,79,Presencial
+Ouro Preto,Tecnico Subsequente,Edificacoes,16,Presencial
+Ouro Preto,Tecnico Subsequente,Joalheria,13,Presencial
+Ouro Preto,Tecnico Subsequente,Meio Ambiente,25,Presencial
+Ouro Preto,Tecnico Subsequente,Metalurgia,5,Presencial
+Ouro Preto,Tecnico Subsequente,Mineracao,31,Presencial
+Ouro Preto,Tecnico Subsequente,Seguranca do Trabalho,31,Presencial
+Ouro Preto,Licenciatura,Fisica,5,Presencial
+Ouro Preto,Licenciatura,Geografia,26,Presencial
+Ouro Preto,Tecnologia,Conservacao e Restauro,25,Presencial
+Santa Luzia,Tecnico Integrado,Edificacoes,81,Presencial
+Santa Luzia,Tecnico Subsequente,Paisagismo,40,Presencial
+Santa Luzia,Tecnico Subsequente,Paisagismo Trilhas,18,Presencial
+Santa Luzia,Tecnico Subsequente,Seguranca do Trabalho,39,Presencial
+Santa Luzia,Tecnico Subsequente,Seguranca do Trabalho Trilhas,13,Presencial
+Santa Luzia,Bacharelado,Arquitetura e Urbanismo,40,Presencial
+Santa Luzia,Bacharelado,Engenharia Civil,40,Presencial
+Santa Luzia,Tecnologia,Design de Interiores,37,Presencial
+Bambui,Tecnico Integrado,Administracao,40,Presencial
+Bambui,Tecnico Integrado,Agropecuaria,87,Presencial
+Bambui,Tecnico Integrado,Biotecnologia,36,Presencial
+Bambui,Tecnico Integrado,Eletromecanica,29,Presencial
+Bambui,Tecnico Integrado,Informatica,33,Presencial
+Bambui,Tecnico Integrado,Meio Ambiente,18,Presencial
+Bambui,Tecnico Subsequente,Agropecuaria,16,Presencial
+Bambui,Tecnico Subsequente,Manutencao Automotiva,8,Presencial
+Bambui,Bacharelado,Administracao,24,Presencial
+Bambui,Bacharelado,Agronomia,42,Presencial
+Bambui,Bacharelado,Engenharia de Alimentos,6,Presencial
+Bambui,Bacharelado,Engenharia de Computacao,25,Presencial
+Bambui,Bacharelado,Engenharia de Producao,5,Presencial
+Bambui,Bacharelado,Medicina Veterinaria,38,Presencial
+Bambui,Bacharelado,Zootecnia,44,Presencial
+Bambui,Licenciatura,Ciencias Biologicas,17,Presencial
+Bambui,Licenciatura,Educacao Fisica,29,Presencial
+Bambui,Licenciatura,Fisica,7,Presencial
+Conselheiro Lafaiete,Tecnico Integrado,Eletrotecnica,40,Presencial
+Conselheiro Lafaiete,Tecnico Integrado,Mecanica,39,Presencial
+Conselheiro Lafaiete,Tecnico Subsequente,Eletrotecnica,41,Presencial
+Conselheiro Lafaiete,Tecnico Subsequente,Mecanica,36,Presencial
+Formiga,Tecnico Integrado,Administracao,40,Presencial
+Formiga,Tecnico Integrado,Eletrotecnica,26,Presencial
+Formiga,Tecnico Integrado,Informatica,30,Presencial
+Formiga,Bacharelado,Administracao,25,Presencial
+Formiga,Bacharelado,Ciencia da Computacao,26,Presencial
+Formiga,Bacharelado,Engenharia Eletrica,11,Presencial
+Formiga,Licenciatura,Matematica,17,Presencial
+Governador Valadares,Tecnico Integrado,Edificacoes ,39,Presencial
+Governador Valadares,Tecnico Integrado,Meio Ambiente ,40,Presencial
+Governador Valadares,Tecnico Integrado,Seguranca do Trabalho ,40,Presencial
+Governador Valadares,Tecnico Subsequente,Seguranca do Trabalho,33,Presencial
+Governador Valadares,Bacharelado,Engenharia Ambiental e Sanitaria,20,Presencial
+Governador Valadares,Bacharelado,Engenharia Civil,39,Presencial
+Governador Valadares,Bacharelado,Engenharia de Producao,25,Presencial
+Governador Valadares,Tecnologia,Gestao Ambiental,26,Presencial
+Ouro Branco,Tecnico Integrado,Administracao,38,Presencial
+Ouro Branco,Tecnico Integrado,Informatica,40,Presencial
+Ouro Branco,Tecnico Integrado,Metalurgia,39,Presencial
+Ouro Branco,Bacharelado,Administracao,39,Presencial
+Ouro Branco,Bacharelado,Engenharia Metalurgica,31,Presencial
+Ouro Branco,Bacharelado,Sistemas de Informacao,49,Presencial
+Ouro Branco,Licenciatura,Pedagogia,31,Presencial
+Ponte Nova,Tecnico Integrado,Administracao,42,Presencial
+Ponte Nova,Tecnico Integrado,Informatica,35,Presencial
+Ponte Nova,Tecnologia,Processos Gerenciais,37,Presencial
+Ribeirao das Neves,Tecnico Integrado,Administracao,77,Presencial
+Ribeirao das Neves,Tecnico Integrado,Eletroeletronica,19,Presencial
+Ribeirao das Neves,Tecnico Integrado,Informatica,83,Presencial
+Ribeirao das Neves,Tecnico Subsequente,Logistica,51,EAD
+Ribeirao das Neves,Bacharelado,Administracao,46,Presencial
+Ribeirao das Neves,Tecnologia,Processos Gerenciais,39,Presencial
+Sabara,Tecnico Integrado,Administracao,35,Presencial
+Sabara,Tecnico Integrado,Eletronica ,36,Presencial
+Sabara,Tecnico Integrado,Informatica,36,Presencial
+Sabara,Bacharelado,Administracao,40,Presencial
+Sabara,Bacharelado,Engenharia de Controle e Automacao,40,Presencial
+Sabara,Bacharelado,Sistemas de Informacao,40,Presencial
+Sabara,Tecnologia,Logistica,27,Presencial
+Sao Joao Evangelista,Tecnico Integrado,Agropecuaria ,71,Presencial
+Sao Joao Evangelista,Tecnico Integrado,Informatica,71,Presencial
+Sao Joao Evangelista,Tecnico Integrado,Nutricao e Dietetica,70,Presencial
+Sao Joao Evangelista,Bacharelado,Administracao,41,Presencial
+Sao Joao Evangelista,Bacharelado,Agronomia,40,Presencial
+Sao Joao Evangelista,Bacharelado,Engenharia Florestal,16,Presencial
+Sao Joao Evangelista,Bacharelado,Sistemas de Informacao,39,Presencial
+Sao Joao Evangelista,Licenciatura,Ciencias Biologicas,34,Presencial

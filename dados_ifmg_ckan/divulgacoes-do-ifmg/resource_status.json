@@ -1,0 +1,29 @@
+{
+  "dataset": "divulgacoes-do-ifmg",
+  "resources": [
+    {
+      "id": "e6720b92-da1d-4939-8d07-36c26ef715ae",
+      "name": "divulgacoes-do-ifmg-ate-junho-2024",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/626fa716-9880-4f1c-9c53-b02945129bcf/resource/e6720b92-da1d-4939-8d07-36c26ef715ae/download/conjunto-de-dados-divulgacoes-do-ifmg.json",
+      "saved_path": "dados_ifmg_ckan/divulgacoes-do-ifmg/resources/conjunto-de-dados-divulgacoes-do-ifmg.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "1e9c360a-d2ed-4a10-9459-1902ba640e06",
+      "name": "divulgacoes-do-ifmg-ate-junho-2024",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/626fa716-9880-4f1c-9c53-b02945129bcf/resource/1e9c360a-d2ed-4a10-9459-1902ba640e06/download/conjunto-de-dados-divulgacoes-do-ifmg.html",
+      "saved_path": "dados_ifmg_ckan/divulgacoes-do-ifmg/resources/conjunto-de-dados-divulgacoes-do-ifmg.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "261cdb5c-659d-4f25-b298-0640b0f07f9a",
+      "name": "divulgacoes-do-ifmg-ate-junho-2024",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/626fa716-9880-4f1c-9c53-b02945129bcf/resource/261cdb5c-659d-4f25-b298-0640b0f07f9a/download/conjunto-de-dados-divulgacoes-do-ifmg.csv",
+      "saved_path": "dados_ifmg_ckan/divulgacoes-do-ifmg/resources/conjunto-de-dados-divulgacoes-do-ifmg.csv",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

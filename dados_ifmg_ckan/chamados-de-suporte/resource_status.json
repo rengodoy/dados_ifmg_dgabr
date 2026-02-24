@@ -1,0 +1,29 @@
+{
+  "dataset": "chamados-de-suporte",
+  "resources": [
+    {
+      "id": "a7efa452-03d9-435d-82f8-f7344516ad72",
+      "name": "chamados_de_suporte_2024_csv",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8339d8d9-deca-4de7-9070-aa5052975292/resource/a7efa452-03d9-435d-82f8-f7344516ad72/download/conjunto-de-dados-chamados-de-suporte.csv",
+      "saved_path": "dados_ifmg_ckan/chamados-de-suporte/resources/conjunto-de-dados-chamados-de-suporte.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "e48f6ccf-5210-473f-b5ee-7e6a8d2983ef",
+      "name": "chamados_de_suporte_2024_json",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8339d8d9-deca-4de7-9070-aa5052975292/resource/e48f6ccf-5210-473f-b5ee-7e6a8d2983ef/download/conjunto-de-dados-chamados-de-suporte.json",
+      "saved_path": "dados_ifmg_ckan/chamados-de-suporte/resources/conjunto-de-dados-chamados-de-suporte.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "6dd378ab-6943-4290-97d1-2671fa69488e",
+      "name": "chamados_de_suporte_2024_html",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8339d8d9-deca-4de7-9070-aa5052975292/resource/6dd378ab-6943-4290-97d1-2671fa69488e/download/conjunto-de-dados-chamados-de-suporte.html",
+      "saved_path": "dados_ifmg_ckan/chamados-de-suporte/resources/conjunto-de-dados-chamados-de-suporte.html",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

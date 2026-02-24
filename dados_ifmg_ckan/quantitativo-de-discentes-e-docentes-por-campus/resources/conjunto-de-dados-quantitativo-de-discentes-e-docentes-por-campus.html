@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="https://dadosabertos.ifmg.edu.br/base/images/ckan.ico">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <style>
+        @page {
+           size: auto;
+        }
+
+        @media print {
+            .navbar {
+                display: block;
+                border-width:0 !important;
+            }
+            .navbar-toggle {
+                display:none;
+            }
+        }
+
+    </style>
+    <title>Quantitativo de Discentes e Docentes por Campus</title>
+</head>
+<body>
+
+    <header>
+      <div class="bg-dark shadow-sm" style="padding: 10px">
+        <div class="container d-flex justify-content-between">
+            <a href="https://dadoabertos.ifmg.edu.br">
+                <img src="https://dadosabertos.ifmg.edu.br/uploads/admin/IFMGSimplesMono.png" width="200" height="50" alt="Portal de Dados Abertos do IFMG" title="Portal de Dados Abertos do IFMG">
+            </a>
+        </div>
+      </div>
+    </header>
+
+    <main role="main">
+        <section class="jumbotron bg-light text-center">
+    <div class="container">
+        <div class="toolbar">
+            <h1 class="text-left">Quantitativo de Discentes e Docentes por Campus</br><small class="text-muted" class="h2">O conjunto se refere ao quantitativo de discentes e docentes do IFMG por campus</small></h1>
+        </div>
+            <table class="table table-bordered">
+              <thead class="thead-dark">
+                <tr>
+                  <th scope="col">Campo</th>
+                  <th scope="col">Tipo</th>
+                  <th scope="col">Descrição</th>
+                </tr>
+              </thead>
+              <tbody><tr><td>campus</td><td>texto</td><td>Campus</td></tr><tr><td>mes-de-apuracao</td><td>texto</td><td>Mês de Apuração</td></tr><tr><td>discentes</td><td>inteiro</td><td>Discentes</td></tr><tr><td>docentes</td><td>inteiro</td><td>Docentes</td></tr>              </tbody>
+            </table>
+        </div>
+        </section>
+    </main>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

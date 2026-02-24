@@ -1,0 +1,29 @@
+{
+  "dataset": "dados-abertos-projetos-extensao-ifmg",
+  "resources": [
+    {
+      "id": "f569d866-54c4-4c30-b07e-e12a225a02e9",
+      "name": "",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/a43234b0-8c60-4777-8b38-55857ba548ca/resource/f569d866-54c4-4c30-b07e-e12a225a02e9/download/dados-abertos-25-10-2024.xlsx",
+      "saved_path": "dados_ifmg_ckan/dados-abertos-projetos-extensao-ifmg/resources/dados-abertos-25-10-2024.xlsx",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "c40ddf44-471f-453d-8ed7-bcac36bbc20c",
+      "name": "Quantitativo de projetos e bolsas de Extensão",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/a43234b0-8c60-4777-8b38-55857ba548ca/resource/c40ddf44-471f-453d-8ed7-bcac36bbc20c/download/dados-abertos-25-10-2024.xlsx",
+      "saved_path": "dados_ifmg_ckan/dados-abertos-projetos-extensao-ifmg/resources/dados-abertos-25-10-2024.xlsx",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "ec01ced3-753d-4921-84fd-7cb78496f5cb",
+      "name": "Quantitativo de projetos e bolsas de Extensão.",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/a43234b0-8c60-4777-8b38-55857ba548ca/resource/ec01ced3-753d-4921-84fd-7cb78496f5cb/download/dados-abertos-25-10-2024.xlsx",
+      "saved_path": "dados_ifmg_ckan/dados-abertos-projetos-extensao-ifmg/resources/dados-abertos-25-10-2024.xlsx",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

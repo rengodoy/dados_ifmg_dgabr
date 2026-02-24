@@ -1,0 +1,29 @@
+{
+  "dataset": "afastamentos_do_pais_dos_servidores_do_ifmg_2024_",
+  "resources": [
+    {
+      "id": "c882e1fe-e03e-4ea5-af5a-e2a8d96c1f24",
+      "name": "afastamentos_do_pais_dos_servidores_do_ifmg_2024_",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/3b978d5f-443c-4784-8d65-f1aa04b78e16/resource/c882e1fe-e03e-4ea5-af5a-e2a8d96c1f24/download/conjunto-de-dados-afastamentos-do-pais-dos-servidores-do-ifmg-2024.html",
+      "saved_path": "dados_ifmg_ckan/afastamentos_do_pais_dos_servidores_do_ifmg_2024_/resources/conjunto-de-dados-afastamentos-do-pais-dos-servidores-do-ifmg-2024.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "64fc2fdc-dcda-4aea-975f-689c11cacdf5",
+      "name": "afastamentos_do_pais_dos_servidores_do_ifmg_2024_",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/3b978d5f-443c-4784-8d65-f1aa04b78e16/resource/64fc2fdc-dcda-4aea-975f-689c11cacdf5/download/conjunto-de-dados-afastamentos-do-pais-dos-servidores-do-ifmg-2024.json",
+      "saved_path": "dados_ifmg_ckan/afastamentos_do_pais_dos_servidores_do_ifmg_2024_/resources/conjunto-de-dados-afastamentos-do-pais-dos-servidores-do-ifmg-2024.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "48811ee5-725c-41ee-812b-972cb16eb662",
+      "name": "afastamentos_do_pais_dos_servidores_do_ifmg_2024_",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/3b978d5f-443c-4784-8d65-f1aa04b78e16/resource/48811ee5-725c-41ee-812b-972cb16eb662/download/conjunto-de-dados-afastamentos-do-pais-dos-servidores-do-ifmg-2024.csv",
+      "saved_path": "dados_ifmg_ckan/afastamentos_do_pais_dos_servidores_do_ifmg_2024_/resources/conjunto-de-dados-afastamentos-do-pais-dos-servidores-do-ifmg-2024.csv",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

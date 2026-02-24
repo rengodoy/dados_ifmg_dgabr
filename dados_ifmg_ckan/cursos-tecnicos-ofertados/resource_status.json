@@ -1,0 +1,29 @@
+{
+  "dataset": "cursos-tecnicos-ofertados",
+  "resources": [
+    {
+      "id": "4c56c18b-00dd-4f38-ae1b-6662e513e43b",
+      "name": "Cursos Técnicos de Nível Médio Ofertados",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/a388d221-708a-427b-9f16-341f9d22e1f1/resource/4c56c18b-00dd-4f38-ae1b-6662e513e43b/download/conjunto-de-dados-cursos-tecnicos-ofertados.html",
+      "saved_path": "dados_ifmg_ckan/cursos-tecnicos-ofertados/resources/conjunto-de-dados-cursos-tecnicos-ofertados.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "5b0fcf91-60d0-47ff-b1ac-d6d8a90e85f4",
+      "name": "Cursos Técnicos de Nível Médio Ofertados",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/a388d221-708a-427b-9f16-341f9d22e1f1/resource/5b0fcf91-60d0-47ff-b1ac-d6d8a90e85f4/download/conjunto-de-dados-cursos-tecnicos-ofertados.csv",
+      "saved_path": "dados_ifmg_ckan/cursos-tecnicos-ofertados/resources/conjunto-de-dados-cursos-tecnicos-ofertados.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "18ff1c33-0098-497b-a17a-616e14bbb228",
+      "name": "Cursos Técnicos de Nível Médio Ofertados",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/a388d221-708a-427b-9f16-341f9d22e1f1/resource/18ff1c33-0098-497b-a17a-616e14bbb228/download/conjunto-de-dados-cursos-tecnicos-ofertados.json",
+      "saved_path": "dados_ifmg_ckan/cursos-tecnicos-ofertados/resources/conjunto-de-dados-cursos-tecnicos-ofertados.json",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

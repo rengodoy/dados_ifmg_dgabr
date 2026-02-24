@@ -1,0 +1,29 @@
+{
+  "dataset": "pos_graduacao_lato_sensu",
+  "resources": [
+    {
+      "id": "9e4553a0-ffe0-4a15-9cb7-cd6881c91b95",
+      "name": "Cursos de Pós-Graduação lato sensu do IFMG",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8bda23f1-4d6a-4732-80f1-950e5edfa902/resource/9e4553a0-ffe0-4a15-9cb7-cd6881c91b95/download/relacao-dos-cursos-de-pos-graduacao-lato-sensu.xlsx",
+      "saved_path": "dados_ifmg_ckan/pos_graduacao_lato_sensu/resources/relacao-dos-cursos-de-pos-graduacao-lato-sensu.xlsx",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "89094b3d-db3b-4ad1-9946-bebdf500f0c5",
+      "name": "Cursos de Pós-Graduação lato sensu do IFMG",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8bda23f1-4d6a-4732-80f1-950e5edfa902/resource/89094b3d-db3b-4ad1-9946-bebdf500f0c5/download/relacao-dos-cursos-de-pos-graduacao-lato-sensu.xlsx",
+      "saved_path": "dados_ifmg_ckan/pos_graduacao_lato_sensu/resources/relacao-dos-cursos-de-pos-graduacao-lato-sensu.xlsx",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "3d7a7ebe-2de8-482e-9f9d-816e6e2b1531",
+      "name": "Cursos de Pós-Graduação lato sensu do IFMG",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8bda23f1-4d6a-4732-80f1-950e5edfa902/resource/3d7a7ebe-2de8-482e-9f9d-816e6e2b1531/download/relacao-dos-cursos-de-pos-graduacao-lato-sensu.xlsx",
+      "saved_path": "dados_ifmg_ckan/pos_graduacao_lato_sensu/resources/relacao-dos-cursos-de-pos-graduacao-lato-sensu.xlsx",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

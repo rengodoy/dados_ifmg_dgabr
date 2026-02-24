@@ -1,0 +1,29 @@
+{
+  "dataset": "cursos_mestrado_2024",
+  "resources": [
+    {
+      "id": "c7bd3344-4af9-43c0-83c7-08fc71aeb88d",
+      "name": "Programas de Mestrado do IFMG",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/a23360a5-b7d3-4fe2-b12c-c1f14071a7ac/resource/c7bd3344-4af9-43c0-83c7-08fc71aeb88d/download/cursos-de-mestrado-do-ifmg.xlsx",
+      "saved_path": "dados_ifmg_ckan/cursos_mestrado_2024/resources/cursos-de-mestrado-do-ifmg.xlsx",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "2b7f18ea-10f0-4171-859c-7b77b8771d15",
+      "name": "Programas de Mestrado do IFMG",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/a23360a5-b7d3-4fe2-b12c-c1f14071a7ac/resource/2b7f18ea-10f0-4171-859c-7b77b8771d15/download/cursos-de-mestrado-do-ifmg.xlsx",
+      "saved_path": "dados_ifmg_ckan/cursos_mestrado_2024/resources/cursos-de-mestrado-do-ifmg.xlsx",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "88586558-a0ce-414d-aae2-def7913b7b77",
+      "name": "Programas de Mestrado do IFMG",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/a23360a5-b7d3-4fe2-b12c-c1f14071a7ac/resource/88586558-a0ce-414d-aae2-def7913b7b77/download/cursos-de-mestrado-do-ifmg.xlsx",
+      "saved_path": "dados_ifmg_ckan/cursos_mestrado_2024/resources/cursos-de-mestrado-do-ifmg.xlsx",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

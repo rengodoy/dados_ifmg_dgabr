@@ -1,0 +1,21 @@
+{
+  "dataset": "dados-abertos-extensao-ifmg",
+  "resources": [
+    {
+      "id": "979a1457-19a9-4260-80d5-21931d5a8d26",
+      "name": "Convênios do IFMG",
+      "url": "",
+      "saved_path": null,
+      "ok": false,
+      "error": "Sem URL"
+    },
+    {
+      "id": "32f225d0-abf9-416a-ae4c-895edcaee430",
+      "name": "Convênios do IFMG",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/30f158c8-7cc3-4588-84be-968c9b494d68/resource/32f225d0-abf9-416a-ae4c-895edcaee430/download/relatorio_convenios-ativos-no-ifmg_ate_25-10-2024.xls",
+      "saved_path": "dados_ifmg_ckan/dados-abertos-extensao-ifmg/resources/relatorio_convenios-ativos-no-ifmg_ate_25-10-2024.xls",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

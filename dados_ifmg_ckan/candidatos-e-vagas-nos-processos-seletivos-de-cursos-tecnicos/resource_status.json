@@ -1,0 +1,45 @@
+{
+  "dataset": "candidatos-e-vagas-nos-processos-seletivos-de-cursos-tecnicos",
+  "resources": [
+    {
+      "id": "e3852977-209e-44b3-9aa4-cb34b1c65695",
+      "name": "Candidatos e Vagas nos Processos Seletivos de Cursos Técnicos",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/e68871bf-6b5b-4a82-b500-34affcdc704e/resource/e3852977-209e-44b3-9aa4-cb34b1c65695/download/conjunto-de-dados-candidatos-e-vagas-cursos-tecnicos.html",
+      "saved_path": "dados_ifmg_ckan/candidatos-e-vagas-nos-processos-seletivos-de-cursos-tecnicos/resources/conjunto-de-dados-candidatos-e-vagas-cursos-tecnicos.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "43c93031-e3c7-4c76-bfa0-3175f764e8d4",
+      "name": "Candidatos e Vagas no Processo Seletivo de Cursos Técnicos (2024.1)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/e68871bf-6b5b-4a82-b500-34affcdc704e/resource/43c93031-e3c7-4c76-bfa0-3175f764e8d4/download/conjunto-de-dados-candidatos-e-vagas-cursos-tecnicos.csv",
+      "saved_path": "dados_ifmg_ckan/candidatos-e-vagas-nos-processos-seletivos-de-cursos-tecnicos/resources/conjunto-de-dados-candidatos-e-vagas-cursos-tecnicos.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "adfc9cf5-7d8d-43c3-9c81-37f8d0495282",
+      "name": "Candidatos e Vagas no Processo Seletivo de Cursos Técnicos (2024.1)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/e68871bf-6b5b-4a82-b500-34affcdc704e/resource/adfc9cf5-7d8d-43c3-9c81-37f8d0495282/download/conjunto-de-dados-candidatos-e-vagas-cursos-tecnicos.json",
+      "saved_path": "dados_ifmg_ckan/candidatos-e-vagas-nos-processos-seletivos-de-cursos-tecnicos/resources/conjunto-de-dados-candidatos-e-vagas-cursos-tecnicos.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "1a0f1820-8b4d-4bd2-afcb-1af2dfb8c99e",
+      "name": "Candidatos e Vagas no Processo Seletivo de Cursos Técnicos (2024.2)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/e68871bf-6b5b-4a82-b500-34affcdc704e/resource/1a0f1820-8b4d-4bd2-afcb-1af2dfb8c99e/download/candidatos-e-vagas-cursos-tecnicos-2024-2.csv",
+      "saved_path": "dados_ifmg_ckan/candidatos-e-vagas-nos-processos-seletivos-de-cursos-tecnicos/resources/candidatos-e-vagas-cursos-tecnicos-2024-2.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "8c295e90-5b87-49a9-a7f5-5a1215c36e82",
+      "name": "Candidatos e Vagas no Processo Seletivo de Cursos Técnicos (2024.2)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/e68871bf-6b5b-4a82-b500-34affcdc704e/resource/8c295e90-5b87-49a9-a7f5-5a1215c36e82/download/candidatos-e-vagas-cursos-tecnicos-2024-2.json",
+      "saved_path": "dados_ifmg_ckan/candidatos-e-vagas-nos-processos-seletivos-de-cursos-tecnicos/resources/candidatos-e-vagas-cursos-tecnicos-2024-2.json",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

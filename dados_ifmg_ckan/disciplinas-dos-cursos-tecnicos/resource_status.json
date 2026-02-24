@@ -1,0 +1,29 @@
+{
+  "dataset": "disciplinas-dos-cursos-tecnicos",
+  "resources": [
+    {
+      "id": "8218b161-d476-44dc-97aa-94501a9b592f",
+      "name": "Disciplinas dos Cursos Técnicos",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/136d7786-af6c-4f86-b7e1-060cbda76630/resource/8218b161-d476-44dc-97aa-94501a9b592f/download/conjunto-de-dados-disciplinas-dos-cursos-tecnicos.html",
+      "saved_path": "dados_ifmg_ckan/disciplinas-dos-cursos-tecnicos/resources/conjunto-de-dados-disciplinas-dos-cursos-tecnicos.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "b8e24d31-7c58-4283-9676-de881cffd68d",
+      "name": "Disciplinas dos Cursos Técnicos (2024.1)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/136d7786-af6c-4f86-b7e1-060cbda76630/resource/b8e24d31-7c58-4283-9676-de881cffd68d/download/conjunto-de-dados-disciplinas-dos-cursos-tecnicos.csv",
+      "saved_path": "dados_ifmg_ckan/disciplinas-dos-cursos-tecnicos/resources/conjunto-de-dados-disciplinas-dos-cursos-tecnicos.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "7782261a-a0a0-483d-9d92-c470d79edd08",
+      "name": "Disciplinas dos Cursos Técnicos (2024.1)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/136d7786-af6c-4f86-b7e1-060cbda76630/resource/7782261a-a0a0-483d-9d92-c470d79edd08/download/conjunto-de-dados-disciplinas-dos-cursos-tecnicos.json",
+      "saved_path": "dados_ifmg_ckan/disciplinas-dos-cursos-tecnicos/resources/conjunto-de-dados-disciplinas-dos-cursos-tecnicos.json",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

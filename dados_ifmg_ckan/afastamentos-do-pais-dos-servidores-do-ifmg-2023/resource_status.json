@@ -1,0 +1,29 @@
+{
+  "dataset": "afastamentos-do-pais-dos-servidores-do-ifmg-2023",
+  "resources": [
+    {
+      "id": "3e81ebd5-7163-4d1f-9a30-c7c4b3b07c11",
+      "name": "Afastamentos do País dos Servidores do IFMG 2023",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8864b0d5-f2c6-4edd-9352-0840d8126ca2/resource/3e81ebd5-7163-4d1f-9a30-c7c4b3b07c11/download/conjunto-de-dados-afastamentos-do-pais-servidores-do-ifmg-2023.csv",
+      "saved_path": "dados_ifmg_ckan/afastamentos-do-pais-dos-servidores-do-ifmg-2023/resources/conjunto-de-dados-afastamentos-do-pais-servidores-do-ifmg-2023.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "d18692b4-e360-44b9-a779-13c1fe207357",
+      "name": "Afastamentos do País dos Servidores do IFMG 2023",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8864b0d5-f2c6-4edd-9352-0840d8126ca2/resource/d18692b4-e360-44b9-a779-13c1fe207357/download/conjunto-de-dados-afastamentos-do-pais-servidores-do-ifmg-2023.html",
+      "saved_path": "dados_ifmg_ckan/afastamentos-do-pais-dos-servidores-do-ifmg-2023/resources/conjunto-de-dados-afastamentos-do-pais-servidores-do-ifmg-2023.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "87f6c09d-f896-4aec-8ce3-90b820b24054",
+      "name": "Afastamentos do País dos Servidores do IFMG 2023",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8864b0d5-f2c6-4edd-9352-0840d8126ca2/resource/87f6c09d-f896-4aec-8ce3-90b820b24054/download/conjunto-de-dados-afastamentos-do-pais-servidores-do-ifmg-2023.json",
+      "saved_path": "dados_ifmg_ckan/afastamentos-do-pais-dos-servidores-do-ifmg-2023/resources/conjunto-de-dados-afastamentos-do-pais-servidores-do-ifmg-2023.json",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

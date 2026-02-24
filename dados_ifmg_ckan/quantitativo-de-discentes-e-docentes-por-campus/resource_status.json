@@ -1,0 +1,29 @@
+{
+  "dataset": "quantitativo-de-discentes-e-docentes-por-campus",
+  "resources": [
+    {
+      "id": "d8bfc03a-8418-44c1-b6bf-5d55a3cd8977",
+      "name": "Quantitativo de Discentes e Docentes por Campus",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/9e8d092a-0d49-446f-bf28-d0da40df64ea/resource/d8bfc03a-8418-44c1-b6bf-5d55a3cd8977/download/conjunto-de-dados-quantitativo-de-discentes-e-docentes-por-campus.html",
+      "saved_path": "dados_ifmg_ckan/quantitativo-de-discentes-e-docentes-por-campus/resources/conjunto-de-dados-quantitativo-de-discentes-e-docentes-por-campus.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "ea682267-6788-41cc-8651-4d0db5944207",
+      "name": "Quantitativo de Discentes e Docentes por Campus (2024)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/9e8d092a-0d49-446f-bf28-d0da40df64ea/resource/ea682267-6788-41cc-8651-4d0db5944207/download/conjunto-de-dados-quantitativo-de-discentes-e-docentes-por-campus.csv",
+      "saved_path": "dados_ifmg_ckan/quantitativo-de-discentes-e-docentes-por-campus/resources/conjunto-de-dados-quantitativo-de-discentes-e-docentes-por-campus.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "5c0189eb-cd79-430a-b419-a17e09397a24",
+      "name": "Quantitativo de Discentes e Docentes por Campus (2024)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/9e8d092a-0d49-446f-bf28-d0da40df64ea/resource/5c0189eb-cd79-430a-b419-a17e09397a24/download/conjunto-de-dados-quantitativo-de-discentes-e-docentes-por-campus.json",
+      "saved_path": "dados_ifmg_ckan/quantitativo-de-discentes-e-docentes-por-campus/resources/conjunto-de-dados-quantitativo-de-discentes-e-docentes-por-campus.json",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

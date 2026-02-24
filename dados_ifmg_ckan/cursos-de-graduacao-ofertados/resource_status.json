@@ -1,0 +1,29 @@
+{
+  "dataset": "cursos-de-graduacao-ofertados",
+  "resources": [
+    {
+      "id": "86fd6cf2-7735-4014-919b-f8f5db91fc98",
+      "name": "Cursos de Graduação Ofertados",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/b3c3c917-040e-42f9-bc9a-44769fd13f94/resource/86fd6cf2-7735-4014-919b-f8f5db91fc98/download/conjunto-de-dados-cursos-de-graduacao-ofertados.html",
+      "saved_path": "dados_ifmg_ckan/cursos-de-graduacao-ofertados/resources/conjunto-de-dados-cursos-de-graduacao-ofertados.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "f87bdc76-eb19-4af0-8004-37f8d8e60ad3",
+      "name": "Cursos de Graduação Ofertados",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/b3c3c917-040e-42f9-bc9a-44769fd13f94/resource/f87bdc76-eb19-4af0-8004-37f8d8e60ad3/download/conjunto-de-dados-cursos-de-graduacao-ofertados.csv",
+      "saved_path": "dados_ifmg_ckan/cursos-de-graduacao-ofertados/resources/conjunto-de-dados-cursos-de-graduacao-ofertados.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "9b9addf1-b7ca-44a1-b489-477ecf0d3374",
+      "name": "Cursos de Graduação Ofertados",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/b3c3c917-040e-42f9-bc9a-44769fd13f94/resource/9b9addf1-b7ca-44a1-b489-477ecf0d3374/download/conjunto-de-dados-cursos-de-graduacao-ofertados.json",
+      "saved_path": "dados_ifmg_ckan/cursos-de-graduacao-ofertados/resources/conjunto-de-dados-cursos-de-graduacao-ofertados.json",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

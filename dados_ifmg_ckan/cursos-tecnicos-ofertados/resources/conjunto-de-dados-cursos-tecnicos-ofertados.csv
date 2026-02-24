@@ -1,0 +1,72 @@
+campus,nome-do-curso,forma-de-oferta,turno-de-oferta,modalidade-de-oferta,vagas-ofertadas
+Arcos,Tecnico em Mecanica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Bambui,Informatica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,35
+Bambui,Tecnico em Administracao,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Bambui,Tecnico em Agropecuaria,Tecnico Integrado ao Ensino Medio,Integral,Presencial,90
+Bambui,Tecnico em Agropecuaria,Tecnico Subsequente ao Ensino Medio,Integral,Presencial,30
+Bambui,Tecnico em Biotecnologia,Tecnico Integrado ao Ensino Medio,Integral,Presencial,35
+Bambui,Tecnico em Eletromecanica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,32
+Bambui,Tecnico em Manutencao Automotiva,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,18
+Bambui,Tecnico em Meio Ambiente,Tecnico Integrado ao Ensino Medio,Integral,Presencial,30
+Betim,Tecnico em Automacao Industrial,Tecnico Integrado ao Ensino Medio,Integral,Presencial,60
+Betim,Tecnico em Mecanica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,60
+Betim,Tecnico em Quimica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,60
+Congonhas,Tecnico em Edificacoes,Tecnico Concomitante ao Ensino Medio,Vespertino,Presencial,35
+Congonhas,Tecnico em Edificacoes,Tecnico Integrado ao Ensino Medio,Integral,Presencial,35
+Congonhas,Tecnico em Edificacoes,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,35
+Congonhas,Tecnico em Mecanica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,30
+Congonhas,Tecnico em Mecanica,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,35
+Congonhas,Tecnico em Mineracao,Tecnico Concomitante ao Ensino Medio,Vespertino,Presencial,35
+Congonhas,Tecnico em Mineracao,Tecnico Integrado ao Ensino Medio,Integral,Presencial,35
+Congonhas,Tecnico em Mineracao,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,35
+Conselheiro Lafaiete,Tecnico em Eletrotecnica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Conselheiro Lafaiete,Tecnico em Eletrotecnica,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,40
+Conselheiro Lafaiete,Tecnico em Mecanica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Conselheiro Lafaiete,Tecnico em Mecanica,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,40
+Formiga,Tecnico em Administracao,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Formiga,Tecnico em Eletrotecnica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,35
+Formiga,Tecnico em Informatica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,30
+Governador Valadares,Tecnico em Edificacoes,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Governador Valadares,Tecnico em Meio Ambiente,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Governador Valadares,Tecnico em Seguranca do Trabalho,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Governador Valadares,Tecnico em Seguranca do Trabalho,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,40
+Ibirite,Tecnico em Automacao Industrial,Tecnico Concomitante ao Ensino Medio,Vespertino,Presencial,40
+Ibirite,Tecnico em Automacao Industrial,Tecnico Integrado ao Ensino Medio,Integral,Presencial,80
+Ibirite,Tecnico em Mecatronica,Tecnico Concomitante ao Ensino Medio,Vespertino,Presencial,40
+Ibirite,Tecnico em Mecatronica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Ibirite,Tecnico em Sistemas de Energia Renovavel,Tecnico Concomitante ao Ensino Medio,Vespertino,Presencial,40
+Ibirite,Tecnico em Sistemas de Energia Renovavel,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Ipatinga,Tecnico em Automacao Industrial ,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Ipatinga,Tecnico em Eletrotecnica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Itabirito,Tecnico em Automacao Industrial,Tecnico Integrado ao Ensino Medio,Integral,Presencial,70
+Ouro Branco,Tecnico em Administracao,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Ouro Branco,Tecnico em Informatica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Ouro Branco,Tecnico em Metalurgia,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Ouro Branco,Tecnico em Metalurgia,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,40
+Ouro Preto,Tecnico em Administracao,Tecnico Integrado ao Ensino Medio,Integral,Presencial,50
+Ouro Preto,Tecnico em Automacao Industrial,Tecnico Integrado ao Ensino Medio,Integral,Presencial,72
+Ouro Preto,Tecnico em Edificacoes,Tecnico Integrado ao Ensino Medio,Integral,Presencial,80
+Ouro Preto,Tecnico em Edificacoes,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,25
+Ouro Preto,Tecnico em Joalheria,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,12
+Ouro Preto,Tecnico em Meio Ambiente,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,30
+Ouro Preto,Tecnico em Metalurgia,Tecnico Integrado ao Ensino Medio,Integral,Presencial,80
+Ouro Preto,Tecnico em Metalurgia,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,20
+Ouro Preto,Tecnico em Mineracao,Tecnico Integrado ao Ensino Medio,Integral,Presencial,80
+Ouro Preto,Tecnico em Mineracao,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,60
+Ouro Preto,Tecnico em Seguranca do Trabalho,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,36
+Piumhi,Tecnico em Edificacoes,Tecnico Integrado ao Ensino Medio,Integral,Presencial,80
+Ponte Nova,Tecnico em Administracao,Tecnico Integrado ao Ensino Medio,Integral,Presencial,40
+Ponte Nova,Tecnico em Informatica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,35
+Ribeirao das Neves,Tecnico em Administracao,Tecnico Integrado ao Ensino Medio,Integral,Presencial,70
+Ribeirao das Neves,Tecnico em Eletroeletronica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,35
+Ribeirao das Neves,Tecnico em Informatica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,70
+Sabara,Tecnico em Administracao,Tecnico Integrado ao Ensino Medio,Integral,Presencial,35
+Sabara,Tecnico em Eletronica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,35
+Sabara,Tecnico em Informatica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,35
+Santa Luzia,Tecnico em Edificacoes,Tecnico Integrado ao Ensino Medio,Integral,Presencial,80
+Santa Luzia,Tecnico em Paisagismo,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,40
+Santa Luzia,Tecnico em Seguranca do Trabalho,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,40
+Sao Joao Evangelista,Tecnico em Agrimensura,Tecnico Subsequente ao Ensino Medio,Noturno,Presencial,35
+Sao Joao Evangelista,Tecnico em Agropecuaria,Tecnico Integrado ao Ensino Medio,Integral,Presencial,70
+Sao Joao Evangelista,Tecnico em Informatica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,70
+Sao Joao Evangelista,Tecnico em Nutricao e Dietetica,Tecnico Integrado ao Ensino Medio,Integral,Presencial,70

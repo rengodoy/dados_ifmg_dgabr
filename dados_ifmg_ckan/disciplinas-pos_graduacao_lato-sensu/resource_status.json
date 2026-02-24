@@ -1,0 +1,29 @@
+{
+  "dataset": "disciplinas-pos_graduacao_lato-sensu",
+  "resources": [
+    {
+      "id": "752e0f6d-617e-46b2-aa34-52274059ead9",
+      "name": "Disciplinas da pós-graduação lato sensu",
+      "url": "",
+      "saved_path": null,
+      "ok": false,
+      "error": "Sem URL"
+    },
+    {
+      "id": "54caca20-57fe-4f33-a03a-eb0aebd8c7bb",
+      "name": "Disciplinas da pós-graduação lato sensu",
+      "url": "",
+      "saved_path": null,
+      "ok": false,
+      "error": "Sem URL"
+    },
+    {
+      "id": "ec8434c9-9f73-45f9-985b-ae565ab42c74",
+      "name": "Disciplinas da pós-graduação lato sensu",
+      "url": "",
+      "saved_path": null,
+      "ok": false,
+      "error": "Sem URL"
+    }
+  ]
+}

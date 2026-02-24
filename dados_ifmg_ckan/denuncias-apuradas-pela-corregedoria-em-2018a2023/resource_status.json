@@ -1,0 +1,149 @@
+{
+  "dataset": "denuncias-apuradas-pela-corregedoria-em-2018a2023",
+  "resources": [
+    {
+      "id": "c71d94db-3ad1-42e9-892a-df42a87967aa",
+      "name": "Denúncias Apuradas pela Corregedoria em 2018",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/c71d94db-3ad1-42e9-892a-df42a87967aa/download/conjunto-de-dados-denuncias-apuradas-em-2018.csv",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-em-2018.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "af5f5bf2-4a3e-4e91-b768-88807cd608ed",
+      "name": "Denúncias Apuradas pela Corregedoria em 2018",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/af5f5bf2-4a3e-4e91-b768-88807cd608ed/download/conjunto-de-dados-denuncias-apuradas-em-2018.json",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-em-2018.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "f7bdcb2b-8030-4204-9d89-4f5c8d176e73",
+      "name": "Denúncias Apuradas pela Corregedoria em 2018",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/f7bdcb2b-8030-4204-9d89-4f5c8d176e73/download/conjunto-de-dados-denuncias-apuradas-em-2018.html",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-em-2018.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "eac533ff-da7b-4a86-a625-f4183cdee582",
+      "name": "Denúncias Apuradas pela Corregedoria em 2019",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/eac533ff-da7b-4a86-a625-f4183cdee582/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2019.csv",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2019.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "a57ce464-0dc1-4359-af72-f91f1cfb5dfc",
+      "name": "Denúncias Apuradas pela Corregedoria em 2019",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/a57ce464-0dc1-4359-af72-f91f1cfb5dfc/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2019.json",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2019.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "b8c74d5f-71f5-4215-b90f-82e578a664e5",
+      "name": "Denúncias Apuradas pela Corregedoria em 2019",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/b8c74d5f-71f5-4215-b90f-82e578a664e5/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2019.html",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2019.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "8e2efe2d-9566-4eb4-b7e1-17b282cadc84",
+      "name": "Denúncias Apuradas pela Corregedoria em 2020",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/8e2efe2d-9566-4eb4-b7e1-17b282cadc84/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2020.csv",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2020.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "c076d2de-2f44-4c62-99e5-663364768bea",
+      "name": "Denúncias Apuradas pela Corregedoria em 2020",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/c076d2de-2f44-4c62-99e5-663364768bea/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2020.json",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2020.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "b0c1a249-0324-4b5c-bec1-ffb0b1b23275",
+      "name": "Denúncias Apuradas pela Corregedoria em 2020",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/b0c1a249-0324-4b5c-bec1-ffb0b1b23275/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2020.html",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2020.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "74c36d72-e311-47af-8784-ab06587a1540",
+      "name": "Denúncias Apuradas pela Corregedoria em 2021",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/74c36d72-e311-47af-8784-ab06587a1540/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2021.csv",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2021.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "d8fdabf4-7113-4360-aa1b-3b06710fc915",
+      "name": "Denúncias Apuradas pela Corregedoria em 2021",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/d8fdabf4-7113-4360-aa1b-3b06710fc915/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2021.json",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2021.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "b0a08b1f-9efd-48e3-815c-7e80d1f1718b",
+      "name": "Denúncias Apuradas pela Corregedoria em 2021",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/b0a08b1f-9efd-48e3-815c-7e80d1f1718b/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2021.html",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2021.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "fe3f6f3d-a1b7-46e9-aa47-7919653fb4bb",
+      "name": "Denúncias Apuradas pela Corregedoria em 2022",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/fe3f6f3d-a1b7-46e9-aa47-7919653fb4bb/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2022.csv",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2022.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "88028df5-ffd4-4d12-9c7b-24fe7a3e4f3f",
+      "name": "Denúncias Apuradas pela Corregedoria em 2022",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/88028df5-ffd4-4d12-9c7b-24fe7a3e4f3f/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2022.json",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2022.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "c8e6c94c-ec6e-4828-af66-d2686fb595ac",
+      "name": "Denúncias Apuradas pela Corregedoria em 2022",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/c8e6c94c-ec6e-4828-af66-d2686fb595ac/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2022.html",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2022.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "c8a4aa00-ac34-4403-8e7a-c21aa7da3d95",
+      "name": "Denúncias Apuradas pela Corregedoria em 2023",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/c8a4aa00-ac34-4403-8e7a-c21aa7da3d95/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2023.csv",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2023.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "58f91718-81bd-4a70-b0db-602cf8f4bf46",
+      "name": "Denúncias Apuradas pela Corregedoria em 2023",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/58f91718-81bd-4a70-b0db-602cf8f4bf46/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2023.json",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2023.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "6e2ffe74-299f-48cf-b073-21b138e1c3fe",
+      "name": "Denúncias Apuradas pela Corregedoria em 2023",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/1adbc936-ca37-4d53-89dd-35d9a1a015ca/resource/6e2ffe74-299f-48cf-b073-21b138e1c3fe/download/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2023.html",
+      "saved_path": "dados_ifmg_ckan/denuncias-apuradas-pela-corregedoria-em-2018a2023/resources/conjunto-de-dados-denuncias-apuradas-pela-corregedoria-em-2023.html",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

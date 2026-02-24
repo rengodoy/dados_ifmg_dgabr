@@ -1,0 +1,1994 @@
+campus,nome-do-curso,modalidade-do-curso,disciplina,carga-horaria
+ARCOS,Engenharia Mecanica,Bacharelado,A Engenharia Mecanica na Industria 4.0,60
+ARCOS,Engenharia Mecanica,Bacharelado,Calculo I,75
+ARCOS,Engenharia Mecanica,Bacharelado,Calculo III,90
+ARCOS,Engenharia Mecanica,Bacharelado,Calculo Numerico,60
+ARCOS,Engenharia Mecanica,Bacharelado,Ciencia dos Materiais,30
+ARCOS,Engenharia Mecanica,Bacharelado,"Ciencia, Superior de Superior de Tecnologia e Sociedade",30
+ARCOS,Engenharia Mecanica,Bacharelado,Computacao Aplicada,45
+ARCOS,Engenharia Mecanica,Bacharelado,Computacao Aplicada,45
+ARCOS,Engenharia Mecanica,Bacharelado,Desenho Tecnico,45
+ARCOS,Engenharia Mecanica,Bacharelado,Desenho Tecnico,45
+ARCOS,Engenharia Mecanica,Bacharelado,Elementos de Maquinas I,60
+ARCOS,Engenharia Mecanica,Bacharelado,Eletrotecnica Industrial,60
+ARCOS,Engenharia Mecanica,Bacharelado,"Energias Renovaveis: Fundamentos, Superior de Superior de Tecnologias e Aplicacoes",60
+ARCOS,Engenharia Mecanica,Bacharelado,Ensaios Nao Destrutivos,60
+ARCOS,Engenharia Mecanica,Bacharelado,Estatica,60
+ARCOS,Engenharia Mecanica,Bacharelado,Fisica II,90
+ARCOS,Engenharia Mecanica,Bacharelado,Fundamentos de Circuitos Eletricos,60
+ARCOS,Engenharia Mecanica,Bacharelado,Geometria Analitica,45
+ARCOS,Engenharia Mecanica,Bacharelado,Manutencao e Confiabilidade,60
+ARCOS,Engenharia Mecanica,Bacharelado,Maquinas de Fluxo,60
+ARCOS,Engenharia Mecanica,Bacharelado,Materiais Nao Metalicos,30
+ARCOS,Engenharia Mecanica,Bacharelado,Mecanica dos Fluidos I,45
+ARCOS,Engenharia Mecanica,Bacharelado,Power B.I.,30
+ARCOS,Engenharia Mecanica,Bacharelado,Processos de Fabricacao I,60
+ARCOS,Engenharia Mecanica,Bacharelado,Processos de Fabricacao III,60
+ARCOS,Engenharia Mecanica,Bacharelado,Quimica Geral,60
+ARCOS,Engenharia Mecanica,Bacharelado,Resistencia dos Materiais II,60
+ARCOS,Engenharia Mecanica,Bacharelado,Sistemas Termicos II,45
+ARCOS,Engenharia Mecanica,Bacharelado,Termodinamica II,45
+ARCOS,Engenharia Mecanica,Bacharelado,Trabalho Academico Integrador Extensionista I,45
+ARCOS,Engenharia Mecanica,Bacharelado,Trabalho Academico Integrador Extensionista III,45
+ARCOS,Engenharia Mecanica,Bacharelado,Trabalho Academico Integrador Extensionista IX,45
+ARCOS,Engenharia Mecanica,Bacharelado,Trabalho Academico Integrador Extensionista V,45
+ARCOS,Engenharia Mecanica,Bacharelado,Trabalho Academico Integrador Extensionista VII,45
+ARCOS,Engenharia Mecanica,Bacharelado,Transferencia de Calor II,45
+ARCOS,Engenharia Mecanica,Bacharelado,Vibracoes Mecanicas,60
+BAMBUI,Administracao,Bacharelado,Administracao da Producao e Servicos II,50
+BAMBUI,Administracao,Bacharelado,Administracao de Recursos Humanos I,50
+BAMBUI,Administracao,Bacharelado,Administracao Estrategica,50
+BAMBUI,Administracao,Bacharelado,Administracao Financeira e Orcamentaria II,50
+BAMBUI,Administracao,Bacharelado,Consultoria,50
+BAMBUI,Administracao,Bacharelado,Contabilidade Basica,50
+BAMBUI,Administracao,Bacharelado,Contabilidade Gerencial,50
+BAMBUI,Administracao,Bacharelado,Elaboracao de Projetos de TCC,50
+BAMBUI,Administracao,Bacharelado,Empresa Simulada,50
+BAMBUI,Administracao,Bacharelado,Estatistica,50
+BAMBUI,Administracao,Bacharelado,Filosofia,50
+BAMBUI,Administracao,Bacharelado,Gestao Ambiental,50
+BAMBUI,Administracao,Bacharelado,Gestao da Cadeia de Suprimentos,50
+BAMBUI,Administracao,Bacharelado,Gestao da Qualidade,50
+BAMBUI,Administracao,Bacharelado,Introducao a Economia,50
+BAMBUI,Administracao,Bacharelado,Introducao a Logica de Programacao e Algoritmos,50
+BAMBUI,Administracao,Bacharelado,Legislacao Social e Trabalhista,50
+BAMBUI,Administracao,Bacharelado,Linguagem e Producao de Textos,50
+BAMBUI,Administracao,Bacharelado,Matematica Financeira,50
+BAMBUI,Administracao,Bacharelado,Mercado de Capitais,50
+BAMBUI,Administracao,Bacharelado,"Organizacao, Sistemas e Metodos",50
+BAMBUI,Administracao,Bacharelado,Pesquisa de Mercado,50
+BAMBUI,Administracao,Bacharelado,Psicologia Organizacional,50
+BAMBUI,Administracao,Bacharelado,Sistemas de Informacao,50
+BAMBUI,Administracao,Bacharelado,Sociologia das Organizacoes,50
+BAMBUI,Administracao,Bacharelado,Teoria Geral da Administracao I,50
+BAMBUI,Administracao,Bacharelado,Trabalho Interdisciplinar I (TID) - Resumo Expandido,50
+BAMBUI,Administracao,Bacharelado,Trabalho Interdisciplinar III (TID) - Relat. e Mostra de Producao,50
+BAMBUI,Agronomia,Bacharelado,Administracao Rural,50
+BAMBUI,Agronomia,Bacharelado,Agricultura de Precisao,50
+BAMBUI,Agronomia,Bacharelado,Agricultura Geral,50
+BAMBUI,Agronomia,Bacharelado,Agrometeorologia,50
+BAMBUI,Agronomia,Bacharelado,Atividade Fisica e Qualidade de Vida,50
+BAMBUI,Agronomia,Bacharelado,"Cana de Acucar, Milho e Sorgo",50
+BAMBUI,Agronomia,Bacharelado,Controle de Plantas Infestantes,50
+BAMBUI,Agronomia,Bacharelado,Controle de Plantas Infestantes,50
+BAMBUI,Agronomia,Bacharelado,Cultura do Cafe,50
+BAMBUI,Agronomia,Bacharelado,Desenho Tecnico I,50
+BAMBUI,Agronomia,Bacharelado,Desenho Tecnico I,50
+BAMBUI,Agronomia,Bacharelado,Ecologia Geral,50
+BAMBUI,Agronomia,Bacharelado,Elaboracao de Projetos Agropecuarios,50
+BAMBUI,Agronomia,Bacharelado,Entomologia Aplicada,50
+BAMBUI,Agronomia,Bacharelado,Entomologia Aplicada,50
+BAMBUI,Agronomia,Bacharelado,Estatistica,50
+BAMBUI,Agronomia,Bacharelado,Feijao e Soja,50
+BAMBUI,Agronomia,Bacharelado,Fitopatologia Aplicada,50
+BAMBUI,Agronomia,Bacharelado,Floricultura e Paisagismo,50
+BAMBUI,Agronomia,Bacharelado,Forragicultura,50
+BAMBUI,Agronomia,Bacharelado,Forragicultura,50
+BAMBUI,Agronomia,Bacharelado,Fruticultura I,50
+BAMBUI,Agronomia,Bacharelado,Fundamentos de Economia,50
+BAMBUI,Agronomia,Bacharelado,Fundamentos de Matematica,50
+BAMBUI,Agronomia,Bacharelado,Genese e Morfologia do Solo,50
+BAMBUI,Agronomia,Bacharelado,Genetica,50
+BAMBUI,Agronomia,Bacharelado,Hidraulica,50
+BAMBUI,Agronomia,Bacharelado,Histologia e Anatomia de Angiospermas,50
+BAMBUI,Agronomia,Bacharelado,Histologia e Anatomia de Angiospermas,50
+BAMBUI,Agronomia,Bacharelado,Informatica Basica,50
+BAMBUI,Agronomia,Bacharelado,Manejo de Irrigacao,50
+BAMBUI,Agronomia,Bacharelado,Maquinas e Mecanizacao Agricola,50
+BAMBUI,Agronomia,Bacharelado,Metodologia Cientifica,50
+BAMBUI,Agronomia,Bacharelado,Nutricao Mineral de Plantas,50
+BAMBUI,Agronomia,Bacharelado,Olericultura II,50
+BAMBUI,Agronomia,Bacharelado,Olericultura II,50
+BAMBUI,Agronomia,Bacharelado,Orientacao de TCC,50
+BAMBUI,Agronomia,Bacharelado,Planimetria,50
+BAMBUI,Agronomia,Bacharelado,Planimetria,50
+BAMBUI,Agronomia,Bacharelado,Pos Colheita e Qualidade do Cafe,50
+BAMBUI,Agronomia,Bacharelado,Quimica Geral,50
+BAMBUI,Agronomia,Bacharelado,Quimica Organica,50
+BAMBUI,Agronomia,Bacharelado,Receituario Agronomico e Superior de Superior de Tecnologia de Aplicacao de Defensivos,50
+BAMBUI,Agronomia,Bacharelado,Sementes I,50
+BAMBUI,Agronomia,Bacharelado,Sementes I,50
+BAMBUI,Agronomia,Bacharelado,Silvicultura I,50
+BAMBUI,Agronomia,Bacharelado,Sociologia e Extensao Rural,50
+BAMBUI,Agronomia,Bacharelado,Zootecnia I (Aves e Suinos),50
+BAMBUI,Ciencias Biologicas,Licenciatura,Anatomia e Morfologia Vegetal,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Anatomia e Morfologia Vegetal,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Anatomia Humana,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Anatomia Humana,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Biologia da Conservacao,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Biologia Molecular,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Bioquimica,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Citologia,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Citologia,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Curriculo e Avaliacao em Educacao,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Educacao e Realidade Brasileira,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Educacao Inclusiva para a Diversidade,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Embriologia,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Embriologia,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Evolucao,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Fisica Geral,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Fundamentos de Matematica,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Fundamentos Filosoficos da Educacao,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Geologia,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Gestao e Legislacao Ambiental,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Introducao a Fisiologia Vegetal,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Introducao a Fisiologia Vegetal,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Introducao as Ciencias Biologicas,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Metodologia Cientifica,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Novas Superior de Superior de Tecnologias Aplicadas ao Ensino,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Orientacao ao TCC I,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Orientacao de Estagio - Biologia,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Parasitologia,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Pratica II: Ensino Medio,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Psicologia da Educacao,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Quimica Geral,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Zoologia de Invertebrados I,50
+BAMBUI,Ciencias Biologicas,Licenciatura,Zoologia de Invertebrados I,50
+BAMBUI,Educacao Fisica,Licenciatura,Anatomia Humana,50
+BAMBUI,Educacao Fisica,Licenciatura,Anatomia Humana,50
+BAMBUI,Educacao Fisica,Licenciatura,Atletismo I,50
+BAMBUI,Educacao Fisica,Licenciatura,Componente Curricular Especifico de Extensao II,50
+BAMBUI,Educacao Fisica,Licenciatura,Danca,50
+BAMBUI,Educacao Fisica,Licenciatura,Educacao Fisica Infantil,50
+BAMBUI,Educacao Fisica,Licenciatura,Esportes Coletivos I (Handebol e Basquetebol),50
+BAMBUI,Educacao Fisica,Licenciatura,Esportes coletivos III (Voleibol),50
+BAMBUI,Educacao Fisica,Licenciatura,Fisiologia do Exercicio,50
+BAMBUI,Educacao Fisica,Licenciatura,Fundamentos Filosoficos da Educacao,50
+BAMBUI,Educacao Fisica,Licenciatura,Ginastica Escolar I,50
+BAMBUI,Educacao Fisica,Licenciatura,Historia da Educacao Fisica,50
+BAMBUI,Educacao Fisica,Licenciatura,"Jogos, Brinquedos e Brincadeiras",50
+BAMBUI,Educacao Fisica,Licenciatura,Metodologia Cientifica,50
+BAMBUI,Educacao Fisica,Licenciatura,Metodologia e praticas de atividades aquaticas,50
+BAMBUI,Educacao Fisica,Licenciatura,Orientacao ao Estagio I,50
+BAMBUI,Educacao Fisica,Licenciatura,Pratica de Ensino e Pesquisa I,50
+BAMBUI,Educacao Fisica,Licenciatura,Pratica de Ensino e Pesquisa II,50
+BAMBUI,Educacao Fisica,Licenciatura,Pratica de Ensino e Pesquisa IV,50
+BAMBUI,Educacao Fisica,Licenciatura,Pratica de Extensao III,50
+BAMBUI,Educacao Fisica,Licenciatura,Primeiros Socorros em Educacao Fisica,50
+BAMBUI,Educacao Fisica,Licenciatura,Psicologia da Educacao,50
+BAMBUI,Educacao Fisica,Licenciatura,Sociologia da Educacao,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Aditivos,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Analise de Alimentos,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Bioquimica,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,BioSuperior de Superior de Tecnologia,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Calculo II,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Calculo Numerico,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Comportamento Humano nas Organizacoes,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Controle de Qualidade de Carnes,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Desenho Tecnico I,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Desenho Tecnico I,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Estatistica,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Fundamentos de Administracao e Empreendedorismo,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Geometria Analitica e Algebra Linear,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Gestao Ambiental,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Gestao da Qualidade de Alimentos,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Gestao de Custos,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Higiene na Industria de Alimentos,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Introducao a Engenharia de Alimentos,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,"Laboratorio de Ondas, Otica e Termodinamica",50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Laboratorio de Quimica Analitica,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Laboratorio de Quimica Analitica,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Laboratorio de Quimica Geral,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Mecanica Estatica,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Metodos de Conservacao de Alimentos,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Microbiologia Geral,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Microbiologia Geral,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Microbiologia Geral,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Nutricao Basica,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Operacoes Unitarias na Industria de Alimentos II,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Orientacao ao Trabalho de Conclusao de Curso,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Processamento Termico de Alimentos,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Projetos de Industrias de Alimentos,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Quimica Analitica,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Quimica Geral,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Seguranca no Trabalho,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Sociologia,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Superior de Superior de Tecnologia de Frutos e Hortalicas,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Superior de Superior de Tecnologia de Graos e Cereais,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Superior de Superior de Tecnologia de Leites e Derivados I,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,"Superior de Superior de Tecnologia de Oleos, Gorduras e Derivados",50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Superior de Superior de Tecnologia de Produtos Apicolas,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Termodinamica,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Transferencia de Calor e Massa,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Tratamento de Residuos,50
+BAMBUI,Engenharia de Alimentos,Bacharelado,Unidade Especifica de Extensao – Eali II,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Algoritmos e Estruturas de Dados I,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Arquitetura de Computadores,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Banco de Dados I,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Banco de Dados I,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Calculo I,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Calculo I,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Calculo III,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Comportamento Humano nas Organizacoes,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Desenho Tecnico Aplicado,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Eletromagnetismo,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Eletronica II,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Eletronica II,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Eletronica II,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Eletrotecnica,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Eletrotecnica,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Eletrotecnica,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Estatistica,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Estatistica Experimental,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Fundamentos da Administracao,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Gestao Ambiental,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Gestao da Inovacao,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Informatica e Sociedade,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Instalacoes Eletricas,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Instalacoes Eletricas,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Instalacoes Eletricas,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Introducao a Engenharia de Computacao,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Laboratorio de Eletromagnetismo,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Laboratorio de Eletromagnetismo,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Linguagens Formais e Automatos,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Logica,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Microcontroladores,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Microcontroladores,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Orientacao de TCC,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Paradigmas de Programacao,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Programacao Orientada a Objetos,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Programacao Paralela e Distribuida,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Projeto e Analise de Algoritmos,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Redes de Computadores,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Sistemas de Controle,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Sistemas de Controle,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Sistemas de Controle,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Sistemas de Informacao,50
+BAMBUI,Engenharia de Computacao,Bacharelado,Topicos Especiais em Engenharia de Computacao,50
+BAMBUI,Engenharia de Producao,Bacharelado,Administracao da Producao e Servicos I,50
+BAMBUI,Engenharia de Producao,Bacharelado,Administracao de Recursos Humanos I,50
+BAMBUI,Engenharia de Producao,Bacharelado,Automacao Industrial,50
+BAMBUI,Engenharia de Producao,Bacharelado,Calculo I,50
+BAMBUI,Engenharia de Producao,Bacharelado,Calculo III,50
+BAMBUI,Engenharia de Producao,Bacharelado,Ciencia dos Materiais,50
+BAMBUI,Engenharia de Producao,Bacharelado,Contabilidade Gerencial,50
+BAMBUI,Engenharia de Producao,Bacharelado,Desenho Tecnico II,50
+BAMBUI,Engenharia de Producao,Bacharelado,Elementos de Maquinas,50
+BAMBUI,Engenharia de Producao,Bacharelado,Eletromagnetismo,50
+BAMBUI,Engenharia de Producao,Bacharelado,Eletrotecnica,50
+BAMBUI,Engenharia de Producao,Bacharelado,Empreendedorismo e Plano de Negocios,50
+BAMBUI,Engenharia de Producao,Bacharelado,Engenharia de Processos,50
+BAMBUI,Engenharia de Producao,Bacharelado,Etica e Responsabilidade Social,50
+BAMBUI,Engenharia de Producao,Bacharelado,Fenomenos de Transporte,50
+BAMBUI,Engenharia de Producao,Bacharelado,Filosofia,50
+BAMBUI,Engenharia de Producao,Bacharelado,Geometria Analitica e Algebra Linear,50
+BAMBUI,Engenharia de Producao,Bacharelado,Gestao Ambiental,50
+BAMBUI,Engenharia de Producao,Bacharelado,Introducao a Engenharia de Producao,50
+BAMBUI,Engenharia de Producao,Bacharelado,Introducao a Logica de Programacao e Algoritmos,50
+BAMBUI,Engenharia de Producao,Bacharelado,Introducao a Seguranca do Trabalho,50
+BAMBUI,Engenharia de Producao,Bacharelado,Laboratorio de Eletromagnetismo,50
+BAMBUI,Engenharia de Producao,Bacharelado,Linguagem e Producao de Textos,50
+BAMBUI,Engenharia de Producao,Bacharelado,Logistica,50
+BAMBUI,Engenharia de Producao,Bacharelado,Maquinas Termicas,50
+BAMBUI,Engenharia de Producao,Bacharelado,Mecanizacao Agricola,50
+BAMBUI,Engenharia de Producao,Bacharelado,Processos de Fabricacao I,50
+BAMBUI,Engenharia de Producao,Bacharelado,Processos de Fabricacao II,50
+BAMBUI,Engenharia de Producao,Bacharelado,Psicologia Organizacional,50
+BAMBUI,Engenharia de Producao,Bacharelado,Resistencia dos Materiais I,50
+BAMBUI,Engenharia de Producao,Bacharelado,Simulacao de Sistemas,50
+BAMBUI,Engenharia de Producao,Bacharelado,Sistemas de Gestao da Qualidade,50
+BAMBUI,Engenharia de Producao,Bacharelado,Teoria Geral da Administracao I,50
+BAMBUI,Fisica,Licenciatura,Calculo II,50
+BAMBUI,Fisica,Licenciatura,Conceitos de Fisica I,50
+BAMBUI,Fisica,Licenciatura,Didatica,50
+BAMBUI,Fisica,Licenciatura,Eletromagnetismo II,50
+BAMBUI,Fisica,Licenciatura,Ensino de Libras,50
+BAMBUI,Fisica,Licenciatura,Etica e Politica Cientifica,50
+BAMBUI,Fisica,Licenciatura,Evolucao das Ideias da Fisica,50
+BAMBUI,Fisica,Licenciatura,Evolucao das Ideias da Fisica II,50
+BAMBUI,Fisica,Licenciatura,Fundamentos da Educacao,50
+BAMBUI,Fisica,Licenciatura,Fundamentos de Biologia,50
+BAMBUI,Fisica,Licenciatura,Geometria Analitica e Algebra Linear,50
+BAMBUI,Fisica,Licenciatura,Gestao Educacional,50
+BAMBUI,Fisica,Licenciatura,Instrumentacao para o Ensino de Fisica I,50
+BAMBUI,Fisica,Licenciatura,Instrumentacao para o Ensino de Fisica III,50
+BAMBUI,Fisica,Licenciatura,Introducao a Astronomia,50
+BAMBUI,Fisica,Licenciatura,Introducao a Didatica e Pratica de Ensino de Fisica,50
+BAMBUI,Fisica,Licenciatura,Introducao a Fisica Quantica I,50
+BAMBUI,Fisica,Licenciatura,Laboratorio de Eletromagnetismo,50
+BAMBUI,Fisica,Licenciatura,Linguagem e Producao de Textos,50
+BAMBUI,Fisica,Licenciatura,Mecanica I,50
+BAMBUI,Fisica,Licenciatura,Novas Superior de Superior de Tecnologias Aplicadas ao Ensino,50
+BAMBUI,Fisica,Licenciatura,Optica e Ondas,50
+BAMBUI,Fisica,Licenciatura,Orientacao de Estagio - Fisica,50
+BAMBUI,Fisica,Licenciatura,Politicas Educacionais,50
+BAMBUI,Fisica,Licenciatura,Pratica de Ensino III,50
+BAMBUI,Fisica,Licenciatura,Pratica de Ensino V,50
+BAMBUI,Fisica,Licenciatura,Projeto TCC,50
+BAMBUI,Fisica,Licenciatura,TCC,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Anatomia Veterinaria I,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Anatomia Veterinaria I,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Biologia Molecular,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Bovinocultura de Leite,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Citologia,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Citologia,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Clinica Medica de Grandes Animais I,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Clinica Medica de Pequenos Animais I,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Clinica Medica de Pequenos Animais I,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Deontologia Veterinaria,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Doencas de Aves e Suinos,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Doencas I,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Ecologia Geral,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Equideocultura,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Estatistica,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Etologia e Bem Estar Animal,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Fisiologia Veterinaria II,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Fisiopatologia da Reproducao,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Fundamentos de Economia,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Genetica,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Higiene e Inspecao de Carnes e Pescado,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Imunologia Veterinaria,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Introducao a Medicina Veterinaria,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Manejo de Medicamentos,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Nutricao Animal Basica,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Parasitologia Veterinaria,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Parasitologia Veterinaria,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Parasitologia Veterinaria,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Patologia Veterinaria,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Patologia Veterinaria,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Patologia Veterinaria,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Saude Publica e Zoonoses,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Semiologia Veterinaria,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Semiologia Veterinaria,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Tecnica Cirurgica,50
+BAMBUI,Medicina Veterinaria,Bacharelado,Terapeutica Veterinaria,50
+BAMBUI,Zootecnia,Bacharelado,Administracao Rural,50
+BAMBUI,Zootecnia,Bacharelado,Alimentos e Alimentacao Animal,50
+BAMBUI,Zootecnia,Bacharelado,Analise e Controle de Qualidade de Alimentos Para Animais,50
+BAMBUI,Zootecnia,Bacharelado,Analise e Controle de Qualidade de Alimentos Para Animais,50
+BAMBUI,Zootecnia,Bacharelado,Analise e Controle de Qualidade de Alimentos Para Animais,50
+BAMBUI,Zootecnia,Bacharelado,Aquicultura,50
+BAMBUI,Zootecnia,Bacharelado,Atividade Fisica e Qualidade de Vida,50
+BAMBUI,Zootecnia,Bacharelado,Avicultura,50
+BAMBUI,Zootecnia,Bacharelado,Bioquimica,50
+BAMBUI,Zootecnia,Bacharelado,Bovinocultura de Leite,50
+BAMBUI,Zootecnia,Bacharelado,Citologia,50
+BAMBUI,Zootecnia,Bacharelado,Citologia,50
+BAMBUI,Zootecnia,Bacharelado,Citologia,50
+BAMBUI,Zootecnia,Bacharelado,Comportamento Humano nas Organizacoes,50
+BAMBUI,Zootecnia,Bacharelado,Construcoes Rurais,50
+BAMBUI,Zootecnia,Bacharelado,Deontologia e introducao a zootecnia,50
+BAMBUI,Zootecnia,Bacharelado,Empreendedorismo,50
+BAMBUI,Zootecnia,Bacharelado,Estatistica Experimental,50
+BAMBUI,Zootecnia,Bacharelado,Etica e Cidadania,50
+BAMBUI,Zootecnia,Bacharelado,Etologia e Bem Estar Animal,50
+BAMBUI,Zootecnia,Bacharelado,Fertilidade do Solo,50
+BAMBUI,Zootecnia,Bacharelado,Fisica Geral,50
+BAMBUI,Zootecnia,Bacharelado,Fisiologia Animal Basica,50
+BAMBUI,Zootecnia,Bacharelado,Forragicultura,50
+BAMBUI,Zootecnia,Bacharelado,Fundamentos de Economia,50
+BAMBUI,Zootecnia,Bacharelado,Fundamentos de Matematica,50
+BAMBUI,Zootecnia,Bacharelado,Genetica,50
+BAMBUI,Zootecnia,Bacharelado,Gestao de Pessoas,50
+BAMBUI,Zootecnia,Bacharelado,Gestao e Legislacao Ambiental,50
+BAMBUI,Zootecnia,Bacharelado,Laboratorio de Quimica Analitica,50
+BAMBUI,Zootecnia,Bacharelado,Laboratorio de Quimica Analitica,50
+BAMBUI,Zootecnia,Bacharelado,Laboratorio de Quimica Analitica,50
+BAMBUI,Zootecnia,Bacharelado,Laboratorio de Quimica Geral,50
+BAMBUI,Zootecnia,Bacharelado,Laboratorio de Quimica Geral,50
+BAMBUI,Zootecnia,Bacharelado,Laboratorio de Quimica Geral,50
+BAMBUI,Zootecnia,Bacharelado,Melhoramento Animal Aplicado,50
+BAMBUI,Zootecnia,Bacharelado,Nutricao Animal Basica,50
+BAMBUI,Zootecnia,Bacharelado,Nutricao de Ruminantes,50
+BAMBUI,Zootecnia,Bacharelado,Parasitologia Basica,50
+BAMBUI,Zootecnia,Bacharelado,Quimica Analitica,50
+BAMBUI,Zootecnia,Bacharelado,Quimica Geral,50
+BAMBUI,Zootecnia,Bacharelado,Seminario,50
+BAMBUI,Zootecnia,Bacharelado,Superior de Superior de Tecnologia de Produtos de Origem Animal,50
+BAMBUI,Zootecnia,Bacharelado,Superior de Superior de Tecnologia de Produtos de Origem Animal,50
+BAMBUI,Zootecnia,Bacharelado,Tecnicas de oratoria e apresentacao,50
+BAMBUI,Zootecnia,Bacharelado,Trabalho de Conclusao de Curso 2 (TCC2),50
+BAMBUI,Zootecnia,Bacharelado,Zoologia Geral,50
+BAMBUI,Zootecnia,Bacharelado,Zoologia Geral,50
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Acionamentos Eletricos,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Algoritmos e Estrutura de Dados II,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Analise de Sistemas Dinamicos Lineares,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Analise e Projeto de Software,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Calculo I,75
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Calculo II,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Calculo III,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Calculo Numerico,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Circuitos Eletricos II,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Controle Digital,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Conversao da Energia e Maquinas Eletricas,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Desenho Tecnico I,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Economia para Engenharia,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Eletronica Geral,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Fisica I,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Fisica II,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Gerenciamento de Projetos,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Gestao Empresarial e Empreendedorismo,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Instalacoes Eletricas Industriais,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Instrumentacao Industrial,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Interface Homem Maquina (IHM) para Microcontroladores,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Introducao a Ciencia da Computacao I,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Introducao a Ciencia da Computacao I,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Introducao a Engenharia,45
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Introducao a Sociologia,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Introducao as Tecnicas Especiais de Controle,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Laboratorio de Automacao,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Laboratorio de Circuitos Eletricos I,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Laboratorio de Controle de Processos,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Laboratorio de Controle de Processos,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Laboratorio de Eletronica de Potencia,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Laboratorio de Fisica I,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Laboratorio de Instrumentacao,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Mecanica Geral,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Metodologia Cientifica e Tecnologica,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Microcontroladores,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Probabilidade e Estatistica,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Quimica Geral,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Rede de Computadores,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Redes Neurais Artificiais,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Sistemas da Qualidade,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Sistemas Digitais,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Sistemas Hidropneumaticos,60
+BETIM,Engenharia de Controle e Automacao,Bacharelado,TCC I,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,TCC II,30
+BETIM,Engenharia de Controle e Automacao,Bacharelado,Tecnicas de Modelagem de Sistemas Dinamicos,60
+BETIM,Engenharia Mecanica,Bacharelado,Algoritmos e Estrutura de Dados II,60
+BETIM,Engenharia Mecanica,Bacharelado,Analise Estrutural,60
+BETIM,Engenharia Mecanica,Bacharelado,Calculo I,75
+BETIM,Engenharia Mecanica,Bacharelado,Calculo II,60
+BETIM,Engenharia Mecanica,Bacharelado,Calculo III,60
+BETIM,Engenharia Mecanica,Bacharelado,Calculo Numerico,30
+BETIM,Engenharia Mecanica,Bacharelado,Ciencia dos Materiais I,30
+BETIM,Engenharia Mecanica,Bacharelado,Ciencia dos Materiais III,30
+BETIM,Engenharia Mecanica,Bacharelado,CLP - Controlador Logico Programavel,30
+BETIM,Engenharia Mecanica,Bacharelado,Desenho Tecnico I,60
+BETIM,Engenharia Mecanica,Bacharelado,Desenho Tecnico III - Modelamento,60
+BETIM,Engenharia Mecanica,Bacharelado,Desenho Tecnico III - Modelamento,60
+BETIM,Engenharia Mecanica,Bacharelado,Ecologia e Protecao Ambiental,30
+BETIM,Engenharia Mecanica,Bacharelado,Economia para Engenharia,30
+BETIM,Engenharia Mecanica,Bacharelado,Elementos de Maquinas,60
+BETIM,Engenharia Mecanica,Bacharelado,Ergonomia e Seguranca do Trabalho,30
+BETIM,Engenharia Mecanica,Bacharelado,Fisica I,60
+BETIM,Engenharia Mecanica,Bacharelado,Fisica II,60
+BETIM,Engenharia Mecanica,Bacharelado,Gerenciamento de Projetos,30
+BETIM,Engenharia Mecanica,Bacharelado,Gestao Empresarial e Empreendedorismo,30
+BETIM,Engenharia Mecanica,Bacharelado,Introducao a Ciencia da Computacao I,60
+BETIM,Engenharia Mecanica,Bacharelado,Introducao a Ciencia da Computacao I,60
+BETIM,Engenharia Mecanica,Bacharelado,Introducao a Engenharia,30
+BETIM,Engenharia Mecanica,Bacharelado,Introducao a Engenharia Automotiva,30
+BETIM,Engenharia Mecanica,Bacharelado,Introducao a programacao CNC,30
+BETIM,Engenharia Mecanica,Bacharelado,Introducao a Sociologia,30
+BETIM,Engenharia Mecanica,Bacharelado,Laboratorio de Fisica I,30
+BETIM,Engenharia Mecanica,Bacharelado,Laboratorio de Fisica I,30
+BETIM,Engenharia Mecanica,Bacharelado,Laboratorio de Quimica Geral,30
+BETIM,Engenharia Mecanica,Bacharelado,Laboratorio de Quimica Geral,30
+BETIM,Engenharia Mecanica,Bacharelado,Manufatura Aditiva por Deposicao a Arco,30
+BETIM,Engenharia Mecanica,Bacharelado,Manutencao Mecanica,60
+BETIM,Engenharia Mecanica,Bacharelado,Mecanica dos Fluidos,60
+BETIM,Engenharia Mecanica,Bacharelado,Mecanica dos Solidos II,60
+BETIM,Engenharia Mecanica,Bacharelado,Mecanica Geral,30
+BETIM,Engenharia Mecanica,Bacharelado,Probabilidade e Estatistica,30
+BETIM,Engenharia Mecanica,Bacharelado,Processos de Fabricacao I,30
+BETIM,Engenharia Mecanica,Bacharelado,Processos de Fabricacao IV - Lab. Usinagem,60
+BETIM,Engenharia Mecanica,Bacharelado,Projeto de Ferramental II - Injecao de termoplasticos,60
+BETIM,Engenharia Mecanica,Bacharelado,Sistemas da Qualidade,30
+BETIM,Engenharia Mecanica,Bacharelado,Sistemas Hidropneumaticos,60
+BETIM,Engenharia Mecanica,Bacharelado,Sistemas Termicos - Maquinas de Calor e Fluxo,60
+BETIM,Engenharia Mecanica,Bacharelado,TCC I,30
+BETIM,Engenharia Mecanica,Bacharelado,TCC I,30
+BETIM,Engenharia Mecanica,Bacharelado,TCC II,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Administracao estrategica,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Administracao estrategica,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Algebra linear,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Algebra linear,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Automacao industrial,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Automacao industrial,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Calculo I,90
+CONGONHAS,Engenharia de Producao,Bacharelado,Calculo I,90
+CONGONHAS,Engenharia de Producao,Bacharelado,Calculo II,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Calculo II,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Calculo III,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Calculo III,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Calculo numerico,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Calculo numerico,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Ciencia dos materiais,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Ciencia dos materiais,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Ciencia dos materiais,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Controle estatistico da qualidade,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Controle estatistico da qualidade,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Custos industriais e contabilidade gerencial,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Custos industriais e contabilidade gerencial,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Desenho tecnico I,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Desenho tecnico I,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Desenho tecnico II,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Desenho tecnico II,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Desenho tecnico II,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Empreendedorismo e inovacao,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Empreendedorismo e inovacao,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Engenharia de manutencao e confiabilidade,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Engenharia de manutencao e confiabilidade,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Engenharia do produto,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Engenharia do produto,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Equacoes diferenciais ordinarias,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Equacoes diferenciais ordinarias,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Estatistica aplicada,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Estatistica aplicada,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Estatistica e probabilidade,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Estatistica e probabilidade,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Etica e legislacao,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Etica e legislacao,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Fenomenos de transporte,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Fenomenos de transporte,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Fisica (Eletromagnetismo),60
+CONGONHAS,Engenharia de Producao,Bacharelado,Fisica (Mecanica),60
+CONGONHAS,Engenharia de Producao,Bacharelado,Fisica (Ondas e Optica),45
+CONGONHAS,Engenharia de Producao,Bacharelado,Fisica (Ondas e Optica),45
+CONGONHAS,Engenharia de Producao,Bacharelado,Fisica experimental,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Fisica experimental,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Fisica II,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Fisica III,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Fundamentos de administracao,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Fundamentos de administracao,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Fundamentos de administracao,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Geometria analitica,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Geometria analitica,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Gerenciamento da cadeia de suprimento,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Gerenciamento da cadeia de suprimento,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Gerenciamento de projetos,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Gerenciamento de projetos,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Gestao ambiental,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Gestao ambiental,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Gestao ambiental,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Gestao da qualidade,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Gestao da qualidade,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Gestao de pessoas,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Gestao de pessoas,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Gestao do conhecimento,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Gestao do conhecimento,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Gestao financeira e analise de investimentos,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Gestao financeira e analise de investimentos,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Instalacoes e equipamentos industriais,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Instalacoes e equipamentos industriais,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Instalacoes e equipamentos industriais,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Introducao a atividades extensionistas,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Introducao a atividades extensionistas,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Introducao a engenharia de producao,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Introducao a engenharia de producao,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Logistica,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Logistica,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Metodologia cientifica,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Modelamento mecanico,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Modelamento mecanico,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Modelamento mecanico,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Organizacao do trabalho e ergonomia,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Organizacao do trabalho e ergonomia,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Pesquisa operacional I,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Pesquisa operacional I,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Pesquisa operacional I,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Pesquisa operacional II,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Pesquisa operacional II,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Planejamento e controle da producao I,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Planejamento e controle da producao I,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Planejamento e controle da producao I,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Planejamento e controle da producao II,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Planejamento e controle da producao II,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Principios de economia,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Principios de economia,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Processos industriais I,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Processos industriais I,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Programacao de computadores I,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Programacao de computadores II,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Projeto de unidade produtiva,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Projeto de unidade produtiva,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Projeto em engenharia I,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Projeto em engenharia I,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Quimica experimental,15
+CONGONHAS,Engenharia de Producao,Bacharelado,Quimica experimental,15
+CONGONHAS,Engenharia de Producao,Bacharelado,Quimica geral,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Quimica geral,45
+CONGONHAS,Engenharia de Producao,Bacharelado,Resistencia dos materiais,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Resistencia dos materiais,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Seguranca do Trabalho,30
+CONGONHAS,Engenharia de Producao,Bacharelado,Sistemas de apoio a decisao,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Sistemas de apoio a decisao,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Sistemas de informacao,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Sistemas de informacao,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Sistemas minero-metalurgicos,60
+CONGONHAS,Engenharia de Producao,Bacharelado,Sistemas minero-metalurgicos,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Algebra linear,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Algebra linear,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Analise estrutural I,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Analise estrutural I,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Analise estrutural II,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Analise estrutural II,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Calculo I,90
+CONGONHAS,Engenharia Mecanica,Bacharelado,Calculo I,90
+CONGONHAS,Engenharia Mecanica,Bacharelado,Calculo II,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Calculo II,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Calculo III,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Calculo III,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Calculo numerico,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Calculo numerico,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Caracterizacao de materiais,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Caracterizacao de materiais,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Ciencia dos materiais,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Ciencia dos materiais,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Cinematica e dinamica dos mecanismos,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Comando numerico computadorizado,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Desenho computacional,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Desenho computacional,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Desenho tecnico,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Desenho tecnico,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Elementos de maquinas,90
+CONGONHAS,Engenharia Mecanica,Bacharelado,Elementos de maquinas I,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Elementos de maquinas II,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Elementos de maquinas II,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Eletronica,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Eletrotecnica,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Ensaios mecanicos,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Ensaios mecanicos,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Ensaios nao destrutivos,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Ensaios nao destrutivos,30
+CONGONHAS,Engenharia Mecanica,Bacharelado,Equacoes diferenciais ordinarias,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Equacoes diferenciais ordinarias,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Estatica,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Estatica,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Estatistica e probabilidade,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Estatistica e probabilidade,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Fisica experimental,30
+CONGONHAS,Engenharia Mecanica,Bacharelado,Fisica experimental,30
+CONGONHAS,Engenharia Mecanica,Bacharelado,Fisica: Eletromagnetismo,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Fisica: Eletromagnetismo,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Fisica: Mecanica,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Fisica: Mecanica,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Fisica: ondas e optica,45
+CONGONHAS,Engenharia Mecanica,Bacharelado,Fisica: ondas e optica,45
+CONGONHAS,Engenharia Mecanica,Bacharelado,Fundamentos de Administracao,30
+CONGONHAS,Engenharia Mecanica,Bacharelado,Fundamentos de Administracao,30
+CONGONHAS,Engenharia Mecanica,Bacharelado,Geometria analitica,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Geometria analitica,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Instrumentacao,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Manutencao e confiabilidade,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Manutencao e confiabilidade,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Mecanica dos fluidos,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Mecanica dos Solidos,90
+CONGONHAS,Engenharia Mecanica,Bacharelado,Mecanica dos Solidos,90
+CONGONHAS,Engenharia Mecanica,Bacharelado,Metodologia cientifica,30
+CONGONHAS,Engenharia Mecanica,Bacharelado,Metrologia,45
+CONGONHAS,Engenharia Mecanica,Bacharelado,Modelamento de sistemas dinamicos,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Modelamento Mecanico (3D),60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Modelamento Mecanico (3D),60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Modelamento Mecanico (3D),60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Principios de economia,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Processos de fabricacao I,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Processos de fabricacao II,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Processos de fabricacao II,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Processos de fabricacao III,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Processos de fabricacao III,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Processos de fabricacao IV,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Processos de fabricacao IV,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Processos minero-metalurgicos,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Processos minero-metalurgicos,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Programacao de computadores,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Programacao de computadores,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Projetos mecanicos,45
+CONGONHAS,Engenharia Mecanica,Bacharelado,Projetos mecanicos,45
+CONGONHAS,Engenharia Mecanica,Bacharelado,Projetos mecanicos,45
+CONGONHAS,Engenharia Mecanica,Bacharelado,Quimica experimental,15
+CONGONHAS,Engenharia Mecanica,Bacharelado,Quimica experimental,15
+CONGONHAS,Engenharia Mecanica,Bacharelado,Quimica geral,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Quimica geral,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Robotica,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Sistemas fluidomecanicos I,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Sistemas fluidomecanicos II,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Sistemas termicos I,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Sistemas termicos II,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Sistemas termicos II,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Sistemas termicos III,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Sistemas termicos III,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Sistemas termicos III,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Soldagem,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Superior de Superior de Tecnologia para o desenvolvimento sustentavel,30
+CONGONHAS,Engenharia Mecanica,Bacharelado,Termodinamica,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Termodinamica,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Transferencia de calor,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Transferencia de calor,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Vibracoes mecanicas,60
+CONGONHAS,Engenharia Mecanica,Bacharelado,Vibracoes mecanicas,60
+CONGONHAS,Fisica,Licenciatura,Algebra Linear,60
+CONGONHAS,Fisica,Licenciatura,Algebra Linear,60
+CONGONHAS,Fisica,Licenciatura,Avaliacao das aprendizagens,30
+CONGONHAS,Fisica,Licenciatura,Avaliacao das aprendizagens,30
+CONGONHAS,Fisica,Licenciatura,Biologia geral,30
+CONGONHAS,Fisica,Licenciatura,Biologia geral,30
+CONGONHAS,Fisica,Licenciatura,Calculo I,90
+CONGONHAS,Fisica,Licenciatura,Calculo I,90
+CONGONHAS,Fisica,Licenciatura,Calculo II,60
+CONGONHAS,Fisica,Licenciatura,Calculo II,60
+CONGONHAS,Fisica,Licenciatura,Calculo III,60
+CONGONHAS,Fisica,Licenciatura,Calculo III,60
+CONGONHAS,Fisica,Licenciatura,Didatica do ensino de fisica,60
+CONGONHAS,Fisica,Licenciatura,Didatica do ensino de fisica,60
+CONGONHAS,Fisica,Licenciatura,Didatica do ensino de fisica,60
+CONGONHAS,Fisica,Licenciatura,Eletromagnetismo,90
+CONGONHAS,Fisica,Licenciatura,Eletromagnetismo,90
+CONGONHAS,Fisica,Licenciatura,Eletromagnetismo - Experimental,45
+CONGONHAS,Fisica,Licenciatura,Eletromagnetismo - Experimental,45
+CONGONHAS,Fisica,Licenciatura,Equacoes diferenciais,30
+CONGONHAS,Fisica,Licenciatura,Equacoes diferenciais,30
+CONGONHAS,Fisica,Licenciatura,Estatistica e probabilidade,60
+CONGONHAS,Fisica,Licenciatura,Estatistica e probabilidade,60
+CONGONHAS,Fisica,Licenciatura,Estrutura e funcionamento da Educacao Basica,30
+CONGONHAS,Fisica,Licenciatura,Estrutura e funcionamento da Educacao Basica,30
+CONGONHAS,Fisica,Licenciatura,"Extensao I: educacao ambiental, direitos humanos, relacoes etnico-raciais e desigualdade social",30
+CONGONHAS,Fisica,Licenciatura,"Extensao I: educacao ambiental, direitos humanos, relacoes etnico-raciais e desigualdade social",30
+CONGONHAS,Fisica,Licenciatura,Extensao II: Divulgacao cientifica,30
+CONGONHAS,Fisica,Licenciatura,Extensao II: Divulgacao cientifica,30
+CONGONHAS,Fisica,Licenciatura,Fenomenos trigonometricos aplicados a fisica,30
+CONGONHAS,Fisica,Licenciatura,Fenomenos trigonometricos aplicados a fisica,30
+CONGONHAS,Fisica,Licenciatura,Fisica aplicada ao corpo humano,30
+CONGONHAS,Fisica,Licenciatura,Fisica conceitual I,60
+CONGONHAS,Fisica,Licenciatura,Fisica conceitual I,60
+CONGONHAS,Fisica,Licenciatura,Fisica conceitual II,60
+CONGONHAS,Fisica,Licenciatura,Fisica conceitual II,60
+CONGONHAS,Fisica,Licenciatura,Fisica do esporte,30
+CONGONHAS,Fisica,Licenciatura,Fisica Moderna I,60
+CONGONHAS,Fisica,Licenciatura,Fisica Moderna I,60
+CONGONHAS,Fisica,Licenciatura,Fisica Moderna II,60
+CONGONHAS,Fisica,Licenciatura,Fisica Moderna II,60
+CONGONHAS,Fisica,Licenciatura,"Fisica nuclear, radiacoes ionizantes e suas aplicacoes",30
+CONGONHAS,Fisica,Licenciatura,"Fisica nuclear, radiacoes ionizantes e suas aplicacoes",30
+CONGONHAS,Fisica,Licenciatura,Fisico-quimica,60
+CONGONHAS,Fisica,Licenciatura,Fisico-quimica,60
+CONGONHAS,Fisica,Licenciatura,Fundamentos de informatica,60
+CONGONHAS,Fisica,Licenciatura,Fundamentos de informatica,60
+CONGONHAS,Fisica,Licenciatura,Geometria analitica,60
+CONGONHAS,Fisica,Licenciatura,Geometria analitica,60
+CONGONHAS,Fisica,Licenciatura,Introducao a astronomia,60
+CONGONHAS,Fisica,Licenciatura,Introducao a astronomia,60
+CONGONHAS,Fisica,Licenciatura,Introducao ao calculo,60
+CONGONHAS,Fisica,Licenciatura,Introducao ao calculo,60
+CONGONHAS,Fisica,Licenciatura,Leitura e producao de textos,30
+CONGONHAS,Fisica,Licenciatura,Leitura e producao de textos,30
+CONGONHAS,Fisica,Licenciatura,Libras,60
+CONGONHAS,Fisica,Licenciatura,Libras,60
+CONGONHAS,Fisica,Licenciatura,Mecanica,90
+CONGONHAS,Fisica,Licenciatura,Mecanica,90
+CONGONHAS,Fisica,Licenciatura,Mecanica experimental,45
+CONGONHAS,Fisica,Licenciatura,Mecanica experimental,45
+CONGONHAS,Fisica,Licenciatura,Metodologia de pesquisa,60
+CONGONHAS,Fisica,Licenciatura,Metodologia de pesquisa,60
+CONGONHAS,Fisica,Licenciatura,Ondas e termodinamica,90
+CONGONHAS,Fisica,Licenciatura,Ondas e termodinamica,90
+CONGONHAS,Fisica,Licenciatura,Ondas e termodinamica - Experimental,45
+CONGONHAS,Fisica,Licenciatura,Ondas e termodinamica - Experimental,45
+CONGONHAS,Fisica,Licenciatura,Ondas eletromagneticas e Optica,90
+CONGONHAS,Fisica,Licenciatura,Ondas eletromagneticas e Optica,90
+CONGONHAS,Fisica,Licenciatura,Ondas eletromagneticas e Optica - Experimental,45
+CONGONHAS,Fisica,Licenciatura,Ondas eletromagneticas e Optica - Experimental,45
+CONGONHAS,Fisica,Licenciatura,Origem e evolucao das ideias da fisica,30
+CONGONHAS,Fisica,Licenciatura,Origem e evolucao das ideias da fisica,30
+CONGONHAS,Fisica,Licenciatura,Producao tecnica,30
+CONGONHAS,Fisica,Licenciatura,Producao tecnica,30
+CONGONHAS,Fisica,Licenciatura,Projeto para o ensino de fisica - TDIC,30
+CONGONHAS,Fisica,Licenciatura,Projeto para o ensino de fisica - TDIC,30
+CONGONHAS,Fisica,Licenciatura,Projetos para o ensino da fisica - CPC,30
+CONGONHAS,Fisica,Licenciatura,Projetos para o ensino da fisica - CPC,30
+CONGONHAS,Fisica,Licenciatura,Projetos para o ensino de fisica - Laboratorios,30
+CONGONHAS,Fisica,Licenciatura,Projetos para o ensino de fisica - Laboratorios,30
+CONGONHAS,Fisica,Licenciatura,Projetos para o ensino de fisica - Sequencia didatica,30
+CONGONHAS,Fisica,Licenciatura,Projetos para o ensino de fisica - Sequencia didatica,30
+CONGONHAS,Fisica,Licenciatura,Psicologia da educacao,60
+CONGONHAS,Fisica,Licenciatura,Psicologia da educacao,60
+CONGONHAS,Fisica,Licenciatura,Psicologia da educacao,60
+CONGONHAS,Fisica,Licenciatura,Quimica geral,60
+CONGONHAS,Fisica,Licenciatura,Quimica geral,60
+CONGONHAS,Fisica,Licenciatura,Sociologia da educacao,30
+CONGONHAS,Fisica,Licenciatura,Sociologia da educacao,30
+CONGONHAS,Fisica,Licenciatura,Topicos Avancados de fisica geral I - Mecanica e Termodinamica,30
+CONGONHAS,Fisica,Licenciatura,Topicos de fisica aplicada,30
+CONGONHAS,Letras,Licenciatura,Analise do discurso,60
+CONGONHAS,Letras,Licenciatura,Analise do discurso,60
+CONGONHAS,Letras,Licenciatura,Curriculo e formacao profissional,60
+CONGONHAS,Letras,Licenciatura,Curriculo e formacao profissional,60
+CONGONHAS,Letras,Licenciatura,Dialogos literarios: tradicao e modernidade,60
+CONGONHAS,Letras,Licenciatura,Dialogos literarios: tradicao e modernidade,60
+CONGONHAS,Letras,Licenciatura,Didatica e metodologia do ensino de ingles,60
+CONGONHAS,Letras,Licenciatura,Didatica e metodologia do ensino de lingua portuguesa,30
+CONGONHAS,Letras,Licenciatura,Didatica e metodologia do ensino de lingua portuguesa,30
+CONGONHAS,Letras,Licenciatura,Didatica e metodologia do ensino de literatura,30
+CONGONHAS,Letras,Licenciatura,Didatica e metodologia do ensino de literatura,30
+CONGONHAS,Letras,Licenciatura,Didatica geral,60
+CONGONHAS,Letras,Licenciatura,Didatica geral,60
+CONGONHAS,Letras,Licenciatura,Educacao inclusiva,60
+CONGONHAS,Letras,Licenciatura,Educacao inclusiva,60
+CONGONHAS,Letras,Licenciatura,Educacao inclusiva,60
+CONGONHAS,Letras,Licenciatura,"Educacao, cultura e diversidade",60
+CONGONHAS,Letras,Licenciatura,"Educacao, cultura e diversidade",60
+CONGONHAS,Letras,Licenciatura,Espanhol instrumental,30
+CONGONHAS,Letras,Licenciatura,Estrutura e funcionamento da educacao basica,30
+CONGONHAS,Letras,Licenciatura,Estrutura e funcionamento da educacao basica,30
+CONGONHAS,Letras,Licenciatura,Estudos da significacao,60
+CONGONHAS,Letras,Licenciatura,Estudos da significacao,60
+CONGONHAS,Letras,Licenciatura,Estudos introdutorios de fonetica e fonologia,30
+CONGONHAS,Letras,Licenciatura,Estudos introdutorios de fonetica e fonologia,30
+CONGONHAS,Letras,Licenciatura,Fundamentos da linguistica aplicada ao ensino e aprendizagem de linguas,30
+CONGONHAS,Letras,Licenciatura,Gramatica normativa,60
+CONGONHAS,Letras,Licenciatura,Gramatica normativa,60
+CONGONHAS,Letras,Licenciatura,"Gramatica, discurso e ensino",60
+CONGONHAS,Letras,Licenciatura,"Gramatica, discurso e ensino",60
+CONGONHAS,Letras,Licenciatura,Historia da educacao,30
+CONGONHAS,Letras,Licenciatura,Historia da educacao,30
+CONGONHAS,Letras,Licenciatura,Introducao a leitura literaria I: Prosa,60
+CONGONHAS,Letras,Licenciatura,Introducao a leitura literaria I: Prosa,60
+CONGONHAS,Letras,Licenciatura,Introducao a leitura literaria II: Poesia,60
+CONGONHAS,Letras,Licenciatura,Introducao a leitura literaria II: Poesia,60
+CONGONHAS,Letras,Licenciatura,Introducao as literaturas de lingua inglesa,60
+CONGONHAS,Letras,Licenciatura,Introducao as literaturas de lingua inglesa,60
+CONGONHAS,Letras,Licenciatura,Leitura do texto literario em lingua inglesa,30
+CONGONHAS,Letras,Licenciatura,Leitura do texto literario em lingua inglesa,30
+CONGONHAS,Letras,Licenciatura,Leitura e producao de textos academicos,60
+CONGONHAS,Letras,Licenciatura,Leitura e producao de textos academicos,60
+CONGONHAS,Letras,Licenciatura,Libras I,60
+CONGONHAS,Letras,Licenciatura,Libras I,60
+CONGONHAS,Letras,Licenciatura,Libras II,60
+CONGONHAS,Letras,Licenciatura,Libras II,60
+CONGONHAS,Letras,Licenciatura,Libras II,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa I,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa I,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa II,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa II,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa III,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa III,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa IV,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa IV,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa V,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa V,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa VI,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa VI,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa VII,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa VII,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa VIII,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa VIII,60
+CONGONHAS,Letras,Licenciatura,Lingua inglesa VIII,60
+CONGONHAS,Letras,Licenciatura,Linguistica aplicada,60
+CONGONHAS,Letras,Licenciatura,Linguistica textual,60
+CONGONHAS,Letras,Licenciatura,Linguistica textual,60
+CONGONHAS,Letras,Licenciatura,Literatura e sociedade,60
+CONGONHAS,Letras,Licenciatura,Literatura e sociedade,60
+CONGONHAS,Letras,Licenciatura,Literatura em lingua inglesa I,60
+CONGONHAS,Letras,Licenciatura,Literatura em lingua inglesa I,60
+CONGONHAS,Letras,Licenciatura,Literatura em lingua inglesa II,60
+CONGONHAS,Letras,Licenciatura,Literatura em lingua inglesa II,60
+CONGONHAS,Letras,Licenciatura,Literatura infantil e juvenil,30
+CONGONHAS,Letras,Licenciatura,Literatura infantil e juvenil,30
+CONGONHAS,Letras,Licenciatura,Literatura infantil e juvenil,30
+CONGONHAS,Letras,Licenciatura,Metodologias ativas de ensino,30
+CONGONHAS,Letras,Licenciatura,Morfossintaxe da lingua portuguesa,60
+CONGONHAS,Letras,Licenciatura,Morfossintaxe da lingua portuguesa,60
+CONGONHAS,Letras,Licenciatura,Mundos possiveis: utopias e distopias literarias no seculo XXI,30
+CONGONHAS,Letras,Licenciatura,Panorama da literatura em lingua portuguesa I,60
+CONGONHAS,Letras,Licenciatura,Panorama da literatura em lingua portuguesa I: Relacoes entre Brasil e Europa,60
+CONGONHAS,Letras,Licenciatura,Panorama da literatura em lingua portuguesa II,60
+CONGONHAS,Letras,Licenciatura,Panorama da literatura em lingua portuguesa II,60
+CONGONHAS,Letras,Licenciatura,Panorama da literatura em lingua portuguesa III,60
+CONGONHAS,Letras,Licenciatura,Panorama da literatura em lingua portuguesa III,60
+CONGONHAS,Letras,Licenciatura,Panorama de estudos da linguagem,60
+CONGONHAS,Letras,Licenciatura,Panorama de estudos da linguagem,60
+CONGONHAS,Letras,Licenciatura,Politicas educacionais,60
+CONGONHAS,Letras,Licenciatura,Politicas educacionais,60
+CONGONHAS,Letras,Licenciatura,Psicologia da educacao,60
+CONGONHAS,Letras,Licenciatura,Psicologia da educacao,60
+CONGONHAS,Letras,Licenciatura,Sociolinguistica,60
+CONGONHAS,Letras,Licenciatura,Sociolinguistica,60
+CONGONHAS,Letras,Licenciatura,Sociologia da educacao,30
+CONGONHAS,Letras,Licenciatura,Sociologia da educacao,30
+CONGONHAS,Letras,Licenciatura,Superior de Superior de Tecnologias digitais aplicadas ao ensino,30
+CONGONHAS,Letras,Licenciatura,Teoria da literatura,60
+CONGONHAS,Letras,Licenciatura,Teoria da literatura,60
+FORMIGA,Administracao,Bacharelado,Administracao Estrategica,60
+FORMIGA,Administracao,Bacharelado,Aprendizagem e Desenvolvimento Organizacional,60
+FORMIGA,Administracao,Bacharelado,Comportamento do Consumidor,60
+FORMIGA,Administracao,Bacharelado,Comunicacao nas Organizacoes,60
+FORMIGA,Administracao,Bacharelado,Contabilidade Geral,60
+FORMIGA,Administracao,Bacharelado,Design e Analise de Processos,60
+FORMIGA,Administracao,Bacharelado,Elaboracao de Projeto Tecnico e Cientifico,60
+FORMIGA,Administracao,Bacharelado,Extensao I,60
+FORMIGA,Administracao,Bacharelado,Extensao III,60
+FORMIGA,Administracao,Bacharelado,Fundamentos do Pensamento Administrativo,60
+FORMIGA,Administracao,Bacharelado,Gerenciamento de Projetos,60
+FORMIGA,Administracao,Bacharelado,Gestao de Ambientes de Inovacao,60
+FORMIGA,Administracao,Bacharelado,Gestao de Pessoas I,60
+FORMIGA,Administracao,Bacharelado,Gestao de Sistemas Produtivos I,60
+FORMIGA,Administracao,Bacharelado,Introducao a Ciencias dos Dados,60
+FORMIGA,Administracao,Bacharelado,Introducao a Economia,60
+FORMIGA,Administracao,Bacharelado,Investimentos e Gestao de Carteiras,60
+FORMIGA,Administracao,Bacharelado,Lideranca e Desenvolvimento de Equipes,60
+FORMIGA,Administracao,Bacharelado,Logistica e Cadeia de Suprimentos,60
+FORMIGA,Administracao,Bacharelado,Matematica I,60
+FORMIGA,Administracao,Bacharelado,Mercados Financeiros,60
+FORMIGA,Administracao,Bacharelado,Metodos Computacionais Aplicados a Administracao,60
+FORMIGA,Administracao,Bacharelado,Modelos de Gestao,60
+FORMIGA,Administracao,Bacharelado,Nocoes de Direito,60
+FORMIGA,Administracao,Bacharelado,Pesquisa Operacional,60
+FORMIGA,Administracao,Bacharelado,Sistemas de Informacoes Gerenciais,60
+FORMIGA,Administracao,Bacharelado,Teoria Geral da Administracao,60
+FORMIGA,Administracao,Bacharelado,Trabalho de Conclusao de Curso,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Algoritmos I,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Arquitetura e Organizacao de Computadores,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Banco de Dados II,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Calculo I,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Compiladores I,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Computacao e Sociedade,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Computacao Grafica para Jogos,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Criptografia e Seguranca de Sistemas,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Eletronica Digital,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Empreendedorismo,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Engenharia de Software,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Estrutura de Dados II,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Estruturas de Dados I,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Extensao em Ciencia da Computacao I,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Filosofia e Etica,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Gestao de Projetos,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Inteligencia Artificial,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Internet das Coisas,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Introducao ao TCC,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Laboratorio de Sistemas Digitais,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Linguagens Formais e Automatos,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Logica para Ciencia da Computacao,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Matematica Computacional,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Modelagem e Projeto de Algoritmos para Mercado Financeiro,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Paradigmas de Linguagens,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Probabilidade e Estatistica,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Projeto e Analise de Algoritmos,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Redes de Computadores I,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Sistemas Operacionais I,60
+FORMIGA,Ciencia da Computacao,Bacharelado,Teoria da Computacao,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Acionamentos Eletricos,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Algebra Linear,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Algoritmos II,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Atividade de Extensao I,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Calculo I,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Calculo III,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Circuitos Eletricos II,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Circuitos Eletricos III,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Direito e Legislacao,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Distribuicao de Energia Eletrica,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Eletricidade e Magnetismo,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Eletromagnetismo,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Eletronica Digital,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Eletronica I,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Eletrotecnica Industrial,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Engenharia de Manutencao,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Engenharia Economica,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Ergonomia e Seguranca do Trabalho,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Fenomenos de Transporte,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Geometria Analitica,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Geracao de Energia Eolica,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Geracao de Energia Fotovoltaica,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Humanidades e Ciencias Sociais,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Instrumentacao e Automacao Industrial,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Acionamentos Eletricos,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Acionamentos Eletricos,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Circuitos Eletricos II,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Circuitos Eletricos II,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Eletronica Digital,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Eletronica Digital,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Eletronica I,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Eletronica I,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Instrumentacao e Automacao Industrial,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Instrumentacao e Automacao Industrial,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Maquinas Eletricas I,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Maquinas Eletricas I,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Mecanica I,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Mecanica I,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Mecanica II,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Quimica Geral,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Laboratorio de Quimica Geral,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Maquinas Eletricas I,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Matematica Computacional,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Mecanica I,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Metodologia Cientifica,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Microprocessadores e Sistemas Embarcados,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Optica e Fisica Moderna,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Probabilidade e Estatistica,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Protecao de Sistemas Eletricos de Potencia,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Qualidade de Energia Eletrica,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Teoria de Controle,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Trabalho de Conclusao de Curso I,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Trabalho de Conclusao de Curso II,60
+FORMIGA,Engenharia Eletrica,Bacharelado,Transmissao de Energia Eletrica,60
+FORMIGA,Gestao Financeira,Superior de Tecnologia,Financas I,60
+FORMIGA,Matematica,Licenciatura,Algebra,60
+FORMIGA,Matematica,Licenciatura,Algebra Linear,60
+FORMIGA,Matematica,Licenciatura,Algoritmos e Programacao II,60
+FORMIGA,Matematica,Licenciatura,Analise Real,60
+FORMIGA,Matematica,Licenciatura,Avaliacao na Sala de Aula de Matematica,60
+FORMIGA,Matematica,Licenciatura,Calculo Diferencial e Integral II,60
+FORMIGA,Matematica,Licenciatura,Desenho Geometrico,60
+FORMIGA,Matematica,Licenciatura,Discussoes e Orientacoes de Estagio I,60
+FORMIGA,Matematica,Licenciatura,Discussoes e Orientacoes de Estagio III,60
+FORMIGA,Matematica,Licenciatura,Equacoes Diferenciais Ordinarias,60
+FORMIGA,Matematica,Licenciatura,Filosofia da Educacao,60
+FORMIGA,Matematica,Licenciatura,Fundamentos de Calculo,60
+FORMIGA,Matematica,Licenciatura,Fundamentos de Fisica II,60
+FORMIGA,Matematica,Licenciatura,Fundamentos de Matematica Elementar,60
+FORMIGA,Matematica,Licenciatura,Geometria Euclidiana Espacial,60
+FORMIGA,Matematica,Licenciatura,Historia da Educacao,60
+FORMIGA,Matematica,Licenciatura,Informatica e Educacao Matematica,60
+FORMIGA,Matematica,Licenciatura,Introducao a Algebra,60
+FORMIGA,Matematica,Licenciatura,Linguagem e Comunicacao,60
+FORMIGA,Matematica,Licenciatura,Metodologia do Trabalho Cientifico,60
+FORMIGA,Matematica,Licenciatura,Modelagem Matematica na Educacao Matematica,60
+FORMIGA,Matematica,Licenciatura,Politica e Legislacao Educacional Brasileira,60
+FORMIGA,Matematica,Licenciatura,Pratica de Ensino de Geometria e Medidas,60
+FORMIGA,Matematica,Licenciatura,Tendencias Pedagogicas Inclusivas,60
+FORMIGA,Matematica,Licenciatura,Teorias de Aprendizagem,60
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Administracao e Gestao Empresarial,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Algebra Linear,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Avaliacao de Impactos Ambientais,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Calculo I,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Cartografia,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Desenvolvimento do TCC,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Escritas e Praticas Leitoras,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Fisica e Conservacao do Solo e da Agua,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Fisica II,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Fundacoes e Estruturas de Contencao,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Geoprocessamento,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Geotecnia,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Hidraulica,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Hidrologia,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Introducao a Ciencia do Solo,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Introducao a Engenharia Ambiental e Sanitaria,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Legislacao e Licenciamento Ambiental,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Legislacao e Licenciamento Ambiental,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,"Monitoramento, Controle e Gestao da Qualidade do Ar",50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Projeto de Extensao I,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Projeto de TCC,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Projeto de TCC,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Quimica Geral e Analitica,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,"Recursos, Eficiencia Energetica e Meio Ambiente",50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,"Recursos, Eficiencia Energetica e Meio Ambiente",50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Resistencia dos Materiais,50
+GOVERNADOR VALADARES,Engenharia Ambiental e Sanitaria,Bacharelado,Seguranca do Trabalho,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Calculo I,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Calculo III,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Concreto Armado III,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Desenho Tecnico,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Direito e Legislacao,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Estruturas de Contencao,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Fisica Experimental,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Fundacoes,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Geologia Aplicada,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Geometria Analitica e Algebra Linear,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Gerenciamento de Residuos Solidos,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Gestao Ambiental,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Hidraulica,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Hidrologia,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Hiperestatica,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,"Humanidades, Ciencias Sociais e Cidadania",50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Introducao a Ciencia dos Materiais,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Introducao a Engenharia Civil,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Isostatica,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Logica e Programacao de Computadores,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Materiais de Construcao II,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Mecanica Aplicada,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Mecanica dos Solos I,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Mecanica dos Solos II,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Ondas e Termodinamica,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Projeto Arquitetonico,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Quimica Geral e Analitica,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Resistencia dos Materiais II,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Seguranca do Trabalho Aplicada,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Sistemas Urbanos de Drenagem e Esgoto,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Superior de Superior de Tecnologia das Edificacoes I,50
+GOVERNADOR VALADARES,Engenharia Civil,Bacharelado,Topografia,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Automacao Industrial,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Calculo Diferencial e Integral I,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Calculo Diferencial e Integral III,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Controle Estatistico da Qualidade,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Economia,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Eletroeletronica,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Engenharia do Produto II,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Engenharia do Trabalho,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Escritas e Praticas Leitoras,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Estatistica e Probabilidade,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Etica e Engenharia,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Expressao Grafica I,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Expressao Grafica II,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Fenomenos de Transporte,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Fisica I,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Fisica II,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Fisico-Quimica,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Geometria Analitica e Algebra Linear,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Gestao da Producao I,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Gestao da Producao II,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Gestao de Custos,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Gestao de Projetos,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Introducao a Ciencia dos Materiais,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Introducao a Engenharia de Producao,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Logica de Programacao de Computadores,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Logistica,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Metrologia,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Organizacao e Metodos,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Pesquisa Operacional I,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Pesquisa Operacional II,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Planejamento Estrategico,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Processos Industriais I,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Processos Industriais II,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Programacao de Computadores I,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Programacao de Computadores II,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Projeto de Unidade Produtiva,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Projeto em Engenharia I,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Projeto em Engenharia II,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Simulacao Computacional,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Sistema de Gestao dos Recursos Naturais,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Topicos Especiais em Engenharia de Producao I,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Topicos Especiais em Engenharia de Producao II,50
+GOVERNADOR VALADARES,Engenharia de Producao,Bacharelado,Topicos Especiais em Engenharia de Producao III,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Avaliacao de Impactos Ambientais,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Climatologia Aplicada,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Ecologia,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Escritas e Praticas Leitoras,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Fundamentos de Hidrologia,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Geografia Fisica,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Geoprocessamento II,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Informatica,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Introducao a Gestao Ambiental,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Projeto de Extensao I,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Quimica Ambiental,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Saneamento Basico II,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Sistema de Gestao Ambiental,50
+GOVERNADOR VALADARES,Gestao Ambiental,Superior de Tecnologia,Topicos em Extensao Ambiental I,50
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Calculo I,90
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Calculo III,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Calculo Numerico,30
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Circuitos Eletricos II,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Controladores Logicos Programaveis,90
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Controle de Sistemas Dinamicos,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Domotica,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Elementos da Fisica dos Semicondutores,30
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Eletronica Analogica,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Eletronica Digital,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Etica e Ciencias Socias,30
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Fenomenos de Transportes,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Fisica aplicada experimental,30
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Fisica II,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Geometria analitica e Algebra linear,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Instrumentacao Industrial,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Inteligencia Artificial,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Introducao a Engenharia de Controle e Automacao,30
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Laboratorio de Eletronica Digital,30
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Laboratorio de Eletronica Digital,30
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Maquinas e Acionamentos Eletricos,90
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Mineracao de Dados e Big Data,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Praticas extensionistas I,90
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Programacao e Estrutura de Dados I,90
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Programacao Web,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Projetos de Elementos de Maquinas,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Quimica Aplicada,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Representacao Tecnica II,30
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Robotica Industrial,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Sinais e Sistemas,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Sistemas Ciberfisicos,30
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Sistemas Supervisorios,60
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,Superior de Superior de Tecnologia dos Materiais,30
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,TCC I,15
+IBIRITE,Engenharia de Controle e Automacao,Bacharelado,TCC II,15
+IPATINGA,Engenharia Eletrica,Bacharelado,Acionamentos Eletricos,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Administracao,30
+IPATINGA,Engenharia Eletrica,Bacharelado,Algoritmo e Programacao,60
+IPATINGA,Engenharia Eletrica,Bacharelado,Algoritmo e Programacao,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Analise de Sistemas Eletricos de Potencia,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Automacao Industrial,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Calculo I,60
+IPATINGA,Engenharia Eletrica,Bacharelado,Calculo II,60
+IPATINGA,Engenharia Eletrica,Bacharelado,Calculo III,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Calculo Numerico,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Ciencia dos Materiais,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Circuitos Eletricos I,60
+IPATINGA,Engenharia Eletrica,Bacharelado,Circuitos Eletricos I,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Circuitos Eletricos I,60
+IPATINGA,Engenharia Eletrica,Bacharelado,Circuitos Eletricos II,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Circuitos Eletricos III,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Conversao de Energia,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Desenho Tecnico,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Economia,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Eficiencia Energetica,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Eletricidade Aplicada,30
+IPATINGA,Engenharia Eletrica,Bacharelado,Eletromagnetismo,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Eletronica Analogica I,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Eletronica Analogica II,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Eletronica de Potencia,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Eletronica Digital,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Empreendedorismo,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Energias renovaveis - Energia Eolica,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Equacoes Diferenciais Ordinarias e Series,60
+IPATINGA,Engenharia Eletrica,Bacharelado,Ergonomia,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Estatistica e Probabilidade,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Estudos Ambientais,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Fenomenos de Transporte,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Filosofia e Etica,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Fisica I,60
+IPATINGA,Engenharia Eletrica,Bacharelado,Fisica II,60
+IPATINGA,Engenharia Eletrica,Bacharelado,Fisica III,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Geometria Analitica e Albebra Linear,60
+IPATINGA,Engenharia Eletrica,Bacharelado,"Geracao, Transmissao e Distribuicao de Energia Eletrica",65
+IPATINGA,Engenharia Eletrica,Bacharelado,Informatica Basica,30
+IPATINGA,Engenharia Eletrica,Bacharelado,Ingles Instrumental,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Instalacoes Eletricas,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Instrumentacao Industrial,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Introducao a Engenharia Eletrica,30
+IPATINGA,Engenharia Eletrica,Bacharelado,Manutencao Industrial,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Maquinas Eletricas I,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Maquinas Eletricas II,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Materiais Eletricos,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Mecanica dos Solidos,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Mecanica Geral,60
+IPATINGA,Engenharia Eletrica,Bacharelado,Medidas Eletricas,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Microcontroladores,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Otimizacao de Sistemas,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Portugues,30
+IPATINGA,Engenharia Eletrica,Bacharelado,Protecao de Sistemas de Energia Eletrica,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Qualidade de Energia Eletrica,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Quimica Geral,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Seguranca do Trabalho,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Sinais e Sistemas,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Sistemas e Controles I,65
+IPATINGA,Engenharia Eletrica,Bacharelado,Sistemas e Controles II,35
+IPATINGA,Engenharia Eletrica,Bacharelado,Sistemas Hidraulicos e Pneumaticos,35
+IPATINGA,Engenharia Eletrica,Bacharelado,TCC1,35
+ITABIRITO,Engenharia Eletrica,Bacharelado,Algoritmo e Programacao II,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Aterramentos Eletricos,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Calculo I,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Calculo III,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Circuitos Eletricos II,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Desenho Tecnico,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,"Direitos Humanos, Etica e Cidadania",50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Eletromagnetismo,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Eletronica de Potencia,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Eletronica Digital,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Eletronica II,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Fisica II,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Fontes Alternativas de Energia,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Geometria Analitica e Algebra Linear,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Gestao de Projetos,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Incertezas nas Medicoes,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Introducao a Economia,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Maquinas Eletricas II,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Matematica Computacional,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Materiais Eletricos e Magneticos,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Microprocessadores e Sistemas Embarcados,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Modelagem e Analise de Sistemas Lineares,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Oficina em Instalacoes Eletricas,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Sinais e Sistemas,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Sistemas de Medicao,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Sistemas Eletricos de Potencia I,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Topicos em Controle e Automacao II,50
+ITABIRITO,Engenharia Eletrica,Bacharelado,Topicos em Sistemas Eletricos de Potencia IV,50
+OURO BRANCO,Administracao,Bacharelado,Administracao Publica,60
+OURO BRANCO,Administracao,Bacharelado,Analise das Demonstracoes Financeiras,60
+OURO BRANCO,Administracao,Bacharelado,Analise de Custos,60
+OURO BRANCO,Administracao,Bacharelado,Comportamento Empreendedor,60
+OURO BRANCO,Administracao,Bacharelado,Contabilidade de Custos,60
+OURO BRANCO,Administracao,Bacharelado,Contabilidade Geral,90
+OURO BRANCO,Administracao,Bacharelado,Curricularizacao da Extensao com foco em Gestao de Pessoas,60
+OURO BRANCO,Administracao,Bacharelado,Direito Empresarial e Tributario,60
+OURO BRANCO,Administracao,Bacharelado,Direito Previdenciario e do Trabalho,60
+OURO BRANCO,Administracao,Bacharelado,Estatistica e Probabilidades,60
+OURO BRANCO,Administracao,Bacharelado,Etica e Politica na Administracao,60
+OURO BRANCO,Administracao,Bacharelado,Fundamentos de Economia,60
+OURO BRANCO,Administracao,Bacharelado,Gestao de Marketing,40
+OURO BRANCO,Administracao,Bacharelado,Gestao de Marketing II,60
+OURO BRANCO,Administracao,Bacharelado,Gestao de Pessoas,60
+OURO BRANCO,Administracao,Bacharelado,Gestao de Recursos Materiais e Patrimoniais,60
+OURO BRANCO,Administracao,Bacharelado,Gestao Financeira e Orcamentaria I,60
+OURO BRANCO,Administracao,Bacharelado,Gestao Financeira e Orcamentaria II,60
+OURO BRANCO,Administracao,Bacharelado,Gestao Inclusiva da Diversidade e Cidadania,60
+OURO BRANCO,Administracao,Bacharelado,Introducao a Ciencia de dados,60
+OURO BRANCO,Administracao,Bacharelado,Logistica e Cadeia de Suprimentos,60
+OURO BRANCO,Administracao,Bacharelado,Matematica  Aplicada a administracao,60
+OURO BRANCO,Administracao,Bacharelado,Matematica Financeira,60
+OURO BRANCO,Administracao,Bacharelado,Metodologia de Pesquisa,60
+OURO BRANCO,Administracao,Bacharelado,Pesquisa em Marketing,60
+OURO BRANCO,Administracao,Bacharelado,Pesquisa Operacional,60
+OURO BRANCO,Administracao,Bacharelado,Planejamento e Controle da Producao,60
+OURO BRANCO,Administracao,Bacharelado,Planejamento Estrategico,60
+OURO BRANCO,Administracao,Bacharelado,Plano de Negocios,60
+OURO BRANCO,Administracao,Bacharelado,Portugues Instrumental,60
+OURO BRANCO,Administracao,Bacharelado,Relacoes de Trabalho,60
+OURO BRANCO,Administracao,Bacharelado,Relacoes Economicas Internacionais,60
+OURO BRANCO,Administracao,Bacharelado,Sistemas de Informacoes Gerenciais,60
+OURO BRANCO,Administracao,Bacharelado,Sociologia do Trabalho e Organizacoes,60
+OURO BRANCO,Administracao,Bacharelado,TCC,50
+OURO BRANCO,Administracao,Bacharelado,Teoria Geral da Administracao I,60
+OURO BRANCO,Administracao,Bacharelado,Teoria Geral de Administracao II,60
+OURO BRANCO,Administracao,Bacharelado,Topicos Especiais em Financas,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Contabilidade Empresarial,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Direito do Trabalho,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Direito Empresarial e Tributario,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Direito Trabalhista,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Estatistica,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Estudo de Viabilidade,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Estudo Economico e Financeiro,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Fundamentos de Economia,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Fundamentos de Marketing,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Gestao de Materiais,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Gestao de Materiais e Recursos Patrimoniais,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Gestao de Operacoes e Servicos,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Gestao de Pessoas e Relacoes de Trabalho,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Gestao de Vendas e Relacionamento,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Gestao Financeira e Orcamento,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Introducao a Administracao,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Logistica Empresarial,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Matematica Aplicada a Administracao,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Metodologia Cientifica,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Pesquisa organizacional e Mercadologica,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Planejamento Estrategico,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Planejamento Estrategico,40
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Portugues Instrumental,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Processos Financeiros,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Relacoes de Trabalho,60
+OURO BRANCO,Processos Gerenciais,Superior de Tecnologia,Seminarios,60
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,BIOLOGIA APLICADA A CONSERVACAO E AO RESTAURO,30
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,DESENHO ARQUITETONICO,60
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,ESTUDO DE SOLOS,40
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,HISTORIA DA ARQUITETURA E DAS CIDADES II,80
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,HISTORIA DA ARTE,70
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,ICONOGRAFIA E SIMBOLOGIA II,40
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,INTRODUCAO A CONSERVACAO E AO RESTAURO,40
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,INTRODUCAO AO TRABALHO DE CONCLUSAO DE CURSO,70
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,MATERIAIS DE CONSTRUCAO I,30
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,MATERIAIS DE CONSTRUCAO III,40
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,PLANEJAMENTO E GERENCIAMENTO DE OBRAS,80
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,PRATICA DE RESTAURACAO II (EXTENSAO),90
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,PRATICA DE RESTAURACAO IV,80
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,QUIMICA APLICADA A CONSERVACAO E AO RESTAURO,30
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,REGULACAO URBANA E PROTECAO DO PATRIMONIO,80
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,SEGURANCA DO TRABALHO,40
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,SISTEMAS E TECNICAS CONSTRUTIVOS II,80
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,Superior de Superior de Tecnologia DOS REVESTIMENTOS E ACABAMENTOS,80
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,TECNICAS DE LEVANTAMENTO,60
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,TEORIA DA RESTAURACAO I,30
+OURO PRETO,Conservacao e Restauro,Superior de Tecnologia,TRABALHO DE CONCLUSAO DE CURSO,30
+OURO PRETO,Fisica,Licenciatura,ALGEBRA LINEAR,60
+OURO PRETO,Fisica,Licenciatura,BIOLOGIA GERAL,30
+OURO PRETO,Fisica,Licenciatura,CALCULO DIFERENCIAL E INTEGRAL II,90
+OURO PRETO,Fisica,Licenciatura,"CURRICULO, DIVERSIDADE, GENERO E RACA",60
+OURO PRETO,Fisica,Licenciatura,DIDATICA,60
+OURO PRETO,Fisica,Licenciatura,EDUCACAO INCLUSIVA,30
+OURO PRETO,Fisica,Licenciatura,ELETROMAGNETISMO I,60
+OURO PRETO,Fisica,Licenciatura,ELETROMAGNETISMO II,60
+OURO PRETO,Fisica,Licenciatura,EPISTEMOLOGIA E FILOSOFIA DA CIENCIA,30
+OURO PRETO,Fisica,Licenciatura,ESTAGIO SUPERVISIONADO I,130
+OURO PRETO,Fisica,Licenciatura,ESTAGIO SUPERVISIONADO II,130
+OURO PRETO,Fisica,Licenciatura,ESTAGIO SUPERVISIONADO III,130
+OURO PRETO,Fisica,Licenciatura,ESTAGIO SUPERVISIONADO IV,130
+OURO PRETO,Fisica,Licenciatura,FILOSOFIA DA EDUCACAO,60
+OURO PRETO,Fisica,Licenciatura,FISICA MODERNA II,60
+OURO PRETO,Fisica,Licenciatura,GEOMETRIA ANALITICA,60
+OURO PRETO,Fisica,Licenciatura,INICIACAO CIENTIFICA E METODOLOGIA DE TRABALHOS ACADEMICOS,60
+OURO PRETO,Fisica,Licenciatura,INTRODUCAO A TECNICAS DE MICROSCOPIA,30
+OURO PRETO,Fisica,Licenciatura,INTRODUCAO AO CALCULO DIFERENCIAL E INTEGRAL,90
+OURO PRETO,Fisica,Licenciatura,LABORATORIO DE ELETROMAGNETISMO,30
+OURO PRETO,Fisica,Licenciatura,LABORATORIO DE MECANICA,30
+OURO PRETO,Fisica,Licenciatura,LIBRAS,60
+OURO PRETO,Fisica,Licenciatura,MECANICA I,60
+OURO PRETO,Fisica,Licenciatura,PORTUGUES INSTRUMENTAL,30
+OURO PRETO,Fisica,Licenciatura,PROJETOS PARA ENSINO DE ELETROMAGNETISMO,60
+OURO PRETO,Fisica,Licenciatura,PROJETOS PARA O ENSINO DE MECANICA,60
+OURO PRETO,Fisica,Licenciatura,PSICOLOGIA DA EDUCACAO,60
+OURO PRETO,Fisica,Licenciatura,QUIMICA GERAL I,30
+OURO PRETO,Fisica,Licenciatura,TOPICOS EM FISICA CONCEITUAL I,60
+OURO PRETO,Fisica,Licenciatura,TOPICOS ESPECIAIS EM AVALIACAO,30
+OURO PRETO,Fisica,Licenciatura,TRABALHO DE CONCLUSAO DE CURSO I,30
+OURO PRETO,Fisica,Licenciatura,TRABALHO DE CONCLUSAO DE CURSO II,30
+OURO PRETO,Gastronomia,Superior de Tecnologia,ALIMENTACAO E IDENTIDADE SOCIO-ESPACIAL,45
+OURO PRETO,Gastronomia,Superior de Tecnologia,ASPECTOS SOCIO-CULTURAIS DA CULINARIA MINEIRA,30
+OURO PRETO,Gastronomia,Superior de Tecnologia,CAFE DA MANHA E ROOM SERVICE	,15
+OURO PRETO,Gastronomia,Superior de Tecnologia,DIRETRIZES PARA ELABORACAO DE TCC,30
+OURO PRETO,Gastronomia,Superior de Tecnologia,EVENTOS EM GASTRONOMIA,30
+OURO PRETO,Gastronomia,Superior de Tecnologia,GASTRONOMIA CONTEMPORANEA,60
+OURO PRETO,Gastronomia,Superior de Tecnologia,GASTRONOMIA E ARTE,30
+OURO PRETO,Gastronomia,Superior de Tecnologia,GESTAO DE CARDAPIOS,30
+OURO PRETO,Gastronomia,Superior de Tecnologia,GESTAO DE EMPREENDIMENTOS GASTRONOMICOS,45
+OURO PRETO,Gastronomia,Superior de Tecnologia,GESTAO DE EVENTOS EM GASTRONOMIA	,30
+OURO PRETO,Gastronomia,Superior de Tecnologia,GESTAO DE PESSOAS,30
+OURO PRETO,Gastronomia,Superior de Tecnologia,PROJETO INTEGRADOR II,15
+OURO PRETO,Gastronomia,Superior de Tecnologia,PROJETO INTEGRADOR III,15
+OURO PRETO,Gastronomia,Superior de Tecnologia,QUIMICA DOS ALIMENTOS,45
+OURO PRETO,Gastronomia,Superior de Tecnologia,Superior de Superior de TecnologiaS DE PROCESSAMENTO DE ALIMENTOS,30
+OURO PRETO,Gastronomia,Superior de Tecnologia,TCC,30
+OURO PRETO,Geografia,Licenciatura,CARTOGRAFIA TEMATICA,60
+OURO PRETO,Geografia,Licenciatura,"CURRICULO, DIVERSIDADE, GENERO E RACA	",60
+OURO PRETO,Geografia,Licenciatura,DIDATICA,60
+OURO PRETO,Geografia,Licenciatura,EDUCACAO AMBIENTAL,60
+OURO PRETO,Geografia,Licenciatura,ESTAGIO SUPERVISIONADO I	,130
+OURO PRETO,Geografia,Licenciatura,ESTAGIO SUPERVISIONADO II	,130
+OURO PRETO,Geografia,Licenciatura,ESTAGIO SUPERVISIONADO III	,130
+OURO PRETO,Geografia,Licenciatura,ESTAGIO SUPERVISIONADO IV	,130
+OURO PRETO,Geografia,Licenciatura,FILOSOFIA DA EDUCACAO,60
+OURO PRETO,Geografia,Licenciatura,GEOGRAFIA AGRARIA,80
+OURO PRETO,Geografia,Licenciatura,GEOGRAFIA ECONOMICA,60
+OURO PRETO,Geografia,Licenciatura,GEOGRAFIA HUMANISTA E CULTURAL	,60
+OURO PRETO,Geografia,Licenciatura,GEOLOGIA GERAL,80
+OURO PRETO,Geografia,Licenciatura,GEOMORFOLOGIA FLUVIAL,80
+OURO PRETO,Geografia,Licenciatura,GEOMORFOLOGIA I,80
+OURO PRETO,Geografia,Licenciatura,HISTORIA DO PENSAMENTO GEOGRAFICO,60
+OURO PRETO,Geografia,Licenciatura,METODOLOGIAS DE ENSINO EM GEOGRAFIA	,60
+OURO PRETO,Geografia,Licenciatura,PEDOLOGIA,80
+OURO PRETO,Geografia,Licenciatura,PROJETOS E SEMINARIOS DE PESQUISA EM GEOGRAFIA	,30
+OURO PRETO,Geografia,Licenciatura,PSICOLOGIA DA EDUCACAO,60
+OURO PRETO,Geografia,Licenciatura,REDACAO TECNICO CIENTIFICA,60
+OURO PRETO,Geografia,Licenciatura,SENSORIAMENTO REMOTO,60
+OURO PRETO,Geografia,Licenciatura,TEORIA E METODOS EM GEOGRAFIA,60
+OURO PRETO,Geografia,Licenciatura,TRABALHO DE CONCLUSAO DE CURSO II	,30
+OURO PRETO,Geografia,Licenciatura,TRABALHO DE CONCLUSAO DE CURSO III,110
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,ANALISE AMBIENTAL,45
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,AUDITORIA AMBIENTAL,30
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,AUDITORIA DA QUALIDADE,60
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,AVALIACAO DE IMPACTOS AMBIENTAIS,30
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,CONTROLE ESTATISTICO DE PROCESSOS,60
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,DIREITO DO TRABALHO (EaD),30
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,DIREITO DO TRABALHO (EaD),30
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,FERRAMENTAS DA QUALIDADE,45
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,GESTAO DA QUALIDADE II,30
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,HIGIENE ORGANIZACIONAL II,45
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,LEGISLACAO AMBIENTAL (EaD),30
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,"METROLOGIA APLICADA A RUIDOS, CALOR E RADIACAO",30
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,ORGANIZACAO EMPRESARIAL (EAD),45
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,PORTUGUES INSTRUMENTAL,30
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,PROGRAMA DE SEGURANCA E SAUDE OCUPACIONAL,30
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,SAUDE NO TRABALHO,30
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,SISTEMA DE GESTAO DA QUALIDADE,45
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,Superior de Superior de Tecnologia DE PREVENCAO E COMBATE A SINISTROS,45
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,Superior de Superior de TecnologiaS AMBIENTAIS,30
+OURO PRETO,Gestao da Qualidade,Superior de Tecnologia,TRABALHO DE CONCLUSAO DE CURSO – TCC (EAD),120
+PIUMHI,Engenharia Civil,Bacharelado,Calculo Diferencial e Integral I,60
+PIUMHI,Engenharia Civil,Bacharelado,Calculo Diferencial e Integral I,60
+PIUMHI,Engenharia Civil,Bacharelado,Calculo Diferencial e Integral II,60
+PIUMHI,Engenharia Civil,Bacharelado,Calculo Diferencial e Integral III,60
+PIUMHI,Engenharia Civil,Bacharelado,Calculo Diferencial e Integral III,60
+PIUMHI,Engenharia Civil,Bacharelado,Calculo Numerico,30
+PIUMHI,Engenharia Civil,Bacharelado,Cidades Inteligentes,30
+PIUMHI,Engenharia Civil,Bacharelado,Concreto Armado I,75
+PIUMHI,Engenharia Civil,Bacharelado,Concreto Armado I,75
+PIUMHI,Engenharia Civil,Bacharelado,Concreto Armado II,60
+PIUMHI,Engenharia Civil,Bacharelado,Construcao Civil I,60
+PIUMHI,Engenharia Civil,Bacharelado,Construcao Civil II,60
+PIUMHI,Engenharia Civil,Bacharelado,Desenho Arquitetonico,30
+PIUMHI,Engenharia Civil,Bacharelado,Desenho Auxiliado por Computador,30
+PIUMHI,Engenharia Civil,Bacharelado,Desenho Tecnico,15
+PIUMHI,Engenharia Civil,Bacharelado,Economia Aplicada,30
+PIUMHI,Engenharia Civil,Bacharelado,Economia Aplicada e Matematica Financeira,60
+PIUMHI,Engenharia Civil,Bacharelado,Empreendedorismo,30
+PIUMHI,Engenharia Civil,Bacharelado,Engenharia Ambiental Basica,30
+PIUMHI,Engenharia Civil,Bacharelado,Engenharia de Trafego e Planejamento dos Transportes,60
+PIUMHI,Engenharia Civil,Bacharelado,Engenharia de Trafego e Planejamento dos Transportes,30
+PIUMHI,Engenharia Civil,Bacharelado,Equacoes Diferenciais Ordinarias,30
+PIUMHI,Engenharia Civil,Bacharelado,Estatistica e Probabilidade,60
+PIUMHI,Engenharia Civil,Bacharelado,Estruturas de Madeira,60
+PIUMHI,Engenharia Civil,Bacharelado,Estruturas Metalicas,75
+PIUMHI,Engenharia Civil,Bacharelado,Estruturas Metalicas,75
+PIUMHI,Engenharia Civil,Bacharelado,Fenomenos de Transportes,60
+PIUMHI,Engenharia Civil,Bacharelado,Fenomenos de Transportes,60
+PIUMHI,Engenharia Civil,Bacharelado,Fisica Experimental I,15
+PIUMHI,Engenharia Civil,Bacharelado,Fisica Experimental II,15
+PIUMHI,Engenharia Civil,Bacharelado,Fisica Experimental III,15
+PIUMHI,Engenharia Civil,Bacharelado,Fisica I,60
+PIUMHI,Engenharia Civil,Bacharelado,Fisica II,60
+PIUMHI,Engenharia Civil,Bacharelado,Fisica III,30
+PIUMHI,Engenharia Civil,Bacharelado,Fundacoes e Estruturas de Contencao,75
+PIUMHI,Engenharia Civil,Bacharelado,Fundacoes e Estruturas de Contencao,75
+PIUMHI,Engenharia Civil,Bacharelado,Geologia Aplicada,30
+PIUMHI,Engenharia Civil,Bacharelado,Geometria Analitica e Algebra Linear,60
+PIUMHI,Engenharia Civil,Bacharelado,Geoprocessamento,30
+PIUMHI,Engenharia Civil,Bacharelado,Hidraulica I,75
+PIUMHI,Engenharia Civil,Bacharelado,Hidraulica II,75
+PIUMHI,Engenharia Civil,Bacharelado,Hidrologia,60
+PIUMHI,Engenharia Civil,Bacharelado,Informatica Instrumental,15
+PIUMHI,Engenharia Civil,Bacharelado,Instalacoes Eletricas,30
+PIUMHI,Engenharia Civil,Bacharelado,Introducao a Engenharia Civil,15
+PIUMHI,Engenharia Civil,Bacharelado,Laboratorio de Materiais da Construcao Civil,15
+PIUMHI,Engenharia Civil,Bacharelado,Laboratorio de Materiais da Construcao Civil,15
+PIUMHI,Engenharia Civil,Bacharelado,"Legislacao, Etica e Exercicio Profissional da Engenharia",30
+PIUMHI,Engenharia Civil,Bacharelado,Matematica Financeira,30
+PIUMHI,Engenharia Civil,Bacharelado,Materiais da Construcao Civil,60
+PIUMHI,Engenharia Civil,Bacharelado,Materiais da Construcao Civil,60
+PIUMHI,Engenharia Civil,Bacharelado,Mecanica dos Solos I,75
+PIUMHI,Engenharia Civil,Bacharelado,Mecanica dos Solos II,60
+PIUMHI,Engenharia Civil,Bacharelado,Mecanica Geral,60
+PIUMHI,Engenharia Civil,Bacharelado,Metodologia Cientifica,30
+PIUMHI,Engenharia Civil,Bacharelado,Metodologia Cientifica,30
+PIUMHI,Engenharia Civil,Bacharelado,Modelagem da Informacao da Construcao,30
+PIUMHI,Engenharia Civil,Bacharelado,Pavimentacao,30
+PIUMHI,Engenharia Civil,Bacharelado,Planejamento e Gerenciamento de Projetos,60
+PIUMHI,Engenharia Civil,Bacharelado,Portugues Instrumental,30
+PIUMHI,Engenharia Civil,Bacharelado,Pre-Calculo,30
+PIUMHI,Engenharia Civil,Bacharelado,Programacao de Computadores,60
+PIUMHI,Engenharia Civil,Bacharelado,Programacao de Computadores,60
+PIUMHI,Engenharia Civil,Bacharelado,Projeto Estrutural em Concreto Armado Auxiliado por Computador,30
+PIUMHI,Engenharia Civil,Bacharelado,Projeto Extensionista 1,15
+PIUMHI,Engenharia Civil,Bacharelado,Projeto Extensionista 2,15
+PIUMHI,Engenharia Civil,Bacharelado,Projeto Extensionista 3,15
+PIUMHI,Engenharia Civil,Bacharelado,Projetos de Estradas e Ferrovias,75
+PIUMHI,Engenharia Civil,Bacharelado,Quimica Aplicada a Engenharia,30
+PIUMHI,Engenharia Civil,Bacharelado,Quimica Geral,30
+PIUMHI,Engenharia Civil,Bacharelado,Quimica Geral Experimental,15
+PIUMHI,Engenharia Civil,Bacharelado,Redacao Tecnica,30
+PIUMHI,Engenharia Civil,Bacharelado,Relatorio de Estagio Supervisionado,45
+PIUMHI,Engenharia Civil,Bacharelado,Relatorio de Estagio Supervisionado,45
+PIUMHI,Engenharia Civil,Bacharelado,Resistencia dos Materiais I,60
+PIUMHI,Engenharia Civil,Bacharelado,Resistencia dos Materiais II,60
+PIUMHI,Engenharia Civil,Bacharelado,Saneamento,60
+PIUMHI,Engenharia Civil,Bacharelado,Seguranca do Trabalho,30
+PIUMHI,Engenharia Civil,Bacharelado,"Sociedade, Politica, Poder e o Exercicio da Engenharia",45
+PIUMHI,Engenharia Civil,Bacharelado,Sociologia,30
+PIUMHI,Engenharia Civil,Bacharelado,Teoria das Estruturas I,75
+PIUMHI,Engenharia Civil,Bacharelado,Teoria das Estruturas II,60
+PIUMHI,Engenharia Civil,Bacharelado,Topicos Especiais,30
+PIUMHI,Engenharia Civil,Bacharelado,Topicos Especiais,30
+PIUMHI,Engenharia Civil,Bacharelado,Topicos Especiais em Engenharia 1,30
+PIUMHI,Engenharia Civil,Bacharelado,Topografia,60
+PIUMHI,Engenharia Civil,Bacharelado,Trabalho de Conclusao de Curso,45
+PIUMHI,Engenharia Civil,Bacharelado,Trabalho de Conclusao de Curso,45
+PIUMHI,Engenharia Civil,Bacharelado,Trabalho e Genero na Construcao Civil,30
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Administracao da Producao,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Administracao Financeira II,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Custos,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Economia,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Energia e Meio Ambiente,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Energia e Meio Ambiente,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Etica e Cidadania,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Fundamentos de Administracao,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Fundamentos de Matematica,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Gestao Ambiental,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Gestao da Qualidade,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Informatica Aplicada,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Ingles para Negocios,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Legislacao Empresarial e Trabalhista,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Leitura e Producao de Textos,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Libras,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Planejamento Estrategico,50
+PONTE NOVA,Processos Gerenciais,Superior de Tecnologia,Sistema de Informacoes Gerenciais,50
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Administracao Publica,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Analise das Demonstracoes Financeiras,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Analise de Custos,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Comportamento Empreendedor,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Contabilidade de Custos,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Contabilidade Geral,90
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Curricularizacao da Extensao com foco em Gestao de Pessoas,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Direito Empresarial e Tributario,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Direito Previdenciario e do Trabalho,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Estatistica e Probabilidades,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Etica e Politica na Administracao,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Fundamentos de Economia,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Gestao de Marketing,40
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Gestao de Marketing II,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Gestao de Pessoas,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Gestao de Recursos Materiais e Patrimoniais,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Gestao Financeira e Orcamentaria I,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Gestao Financeira e Orcamentaria II,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Gestao Inclusiva da Diversidade e Cidadania,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Introducao a Ciencia de dados,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Logistica e Cadeia de Suprimentos,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Matematica  Aplicada a administracao,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Matematica Financeira,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Metodologia de Pesquisa,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Pesquisa em Marketing,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Pesquisa Operacional,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Planejamento e Controle da Producao,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Planejamento Estrategico,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Plano de Negocios,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Portugues Instrumental,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Relacoes de Trabalho,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Relacoes Economicas Internacionais,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Sistemas de Informacoes Gerenciais,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Sociologia do Trabalho e Organizacoes,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,TCC,50
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Teoria Geral da Administracao I,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Teoria Geral de Administracao II,60
+RIBEIRAO DAS NEVES,Administracao,Bacharelado,Topicos Especiais em Financas,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Contabilidade Empresarial,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Direito do Trabalho,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Direito Empresarial e Tributario,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Direito Trabalhista,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Estatistica,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Estudo de Viabilidade,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Estudo Economico e Financeiro,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Fundamentos de Economia,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Fundamentos de Marketing,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Gestao de Materiais,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Gestao de Materiais e Recursos Patrimoniais,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Gestao de Operacoes e Servicos,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Gestao de Pessoas e Relacoes de Trabalho,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Gestao de Vendas e Relacionamento,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Gestao Financeira e Orcamento,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Introducao a Administracao,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Logistica Empresarial,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Matematica Aplicada a Administracao,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Metodologia Cientifica,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Pesquisa organizacional e Mercadologica,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Planejamento Estrategico,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Planejamento Estrategico,40
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Portugues Instrumental,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Processos Financeiros,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Relacoes de Trabalho,60
+RIBEIRAO DAS NEVES,Processos Gerenciais,Superior de Tecnologia,Seminarios,60
+SABARA,Administracao,Bacharelado,Administracao de Materiais e Patrimonio,50
+SABARA,Administracao,Bacharelado,Auditoria,50
+SABARA,Administracao,Bacharelado,Comportamento Organizacional,50
+SABARA,Administracao,Bacharelado,Contabilidade Basica,50
+SABARA,Administracao,Bacharelado,Direito do Trabalho,50
+SABARA,Administracao,Bacharelado,Direito Empresarial,50
+SABARA,Administracao,Bacharelado,Empreendedorismo II,50
+SABARA,Administracao,Bacharelado,Estatistica Aplicada,50
+SABARA,Administracao,Bacharelado,Gestao Ambiental,50
+SABARA,Administracao,Bacharelado,Gestao de Servicos e Qualidade,50
+SABARA,Administracao,Bacharelado,Gestao Estrategica de Pessoas II,50
+SABARA,Administracao,Bacharelado,Introducao a Administracao,50
+SABARA,Administracao,Bacharelado,Introducao ao Direito,50
+SABARA,Administracao,Bacharelado,Logistica Empresarial,50
+SABARA,Administracao,Bacharelado,Marketing I,50
+SABARA,Administracao,Bacharelado,Matematica Financeira,50
+SABARA,Administracao,Bacharelado,Matematica I,50
+SABARA,Administracao,Bacharelado,Planejamento Estrategico,50
+SABARA,Administracao,Bacharelado,Projeto Integrador I,50
+SABARA,Administracao,Bacharelado,Projeto Integrador III,50
+SABARA,Administracao,Bacharelado,Projeto Integrador V,50
+SABARA,Administracao,Bacharelado,Projeto Integrador VI,50
+SABARA,Administracao,Bacharelado,Projeto Integrador VII,50
+SABARA,Administracao,Bacharelado,Redacao e Comunicacao,50
+SABARA,Administracao,Bacharelado,Sociologia das Organizacoes,50
+SABARA,Administracao,Bacharelado,Superior de Superior de Tecnologias da Informacao e Comunicacao,50
+SABARA,Administracao,Bacharelado,Superior de Superior de Tecnologias Sociais,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Algoritmos e Programacao I,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Calculo Diferencial e Integral I,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Calculo Diferencial e Integral III,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Calculo Numerico,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Circuitos Eletricos II,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Circuitos Eletricos III,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Controle de Processos Industriais,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Engenharia e Meio Ambiente,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Ergonomia e Seguranca do Trabalho,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Etica e Sociedade,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Fisica I,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Fisica III,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Geometria Analitica e Algebra Linear,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Instalacoes Eletricas Industriais,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Instrumentacao Industrial,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Inteligencia Artificial,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Introducao a Engenharia de Controle e Automacao,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Introducao a Otimizacao,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Maquinas Eletricas,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Mecanica Geral,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Processos Industriais,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Projeto I,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Projeto II,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Redes de Computadores,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Resistencia de Materiais,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Robotica,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Sinais e Sistemas,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Sistema de Producao Automatizados II,50
+SABARA,Engenharia de Controle e Automacao,Bacharelado,Sistemas Digitais,50
+SABARA,Logistica,Superior de Tecnologia,Comportamento Organizacional,50
+SABARA,Logistica,Superior de Tecnologia,Economia,50
+SABARA,Logistica,Superior de Tecnologia,Engenharia Economica,50
+SABARA,Logistica,Superior de Tecnologia,Etica e Cidadania,50
+SABARA,Logistica,Superior de Tecnologia,Fundamentos de Administracao,50
+SABARA,Logistica,Superior de Tecnologia,Fundamentos de Matematica,50
+SABARA,Logistica,Superior de Tecnologia,Gestao da Qualidade,50
+SABARA,Logistica,Superior de Tecnologia,Gestao de Compras e Armazenagem,50
+SABARA,Logistica,Superior de Tecnologia,Gestao de Processos,50
+SABARA,Logistica,Superior de Tecnologia,Gestao de Projetos,50
+SABARA,Logistica,Superior de Tecnologia,Informatica Aplicada,50
+SABARA,Logistica,Superior de Tecnologia,Introducao a Logistica,50
+SABARA,Logistica,Superior de Tecnologia,Logistica Aplicada ao Comercio Exterior,50
+SABARA,Logistica,Superior de Tecnologia,Logistica Reversa,50
+SABARA,Logistica,Superior de Tecnologia,Planejamento e Controle da Producao I,50
+SABARA,Logistica,Superior de Tecnologia,Planejamento e Controle da Producao II,50
+SABARA,Logistica,Superior de Tecnologia,Simulacao de Sistemas Logisticos,50
+SABARA,Logistica,Superior de Tecnologia,Superior de Tecnologias de Informacao e Comunicacao (TICs),50
+SABARA,Logistica,Superior de Tecnologia,Topicos Especiais,50
+SABARA,Logistica,Superior de Tecnologia,Topicos Especiais em Economia,50
+SABARA,Sistemas de Informacao,Bacharelado,Arquitetura de Computadores,50
+SABARA,Sistemas de Informacao,Bacharelado,Banco de Dados II,50
+SABARA,Sistemas de Informacao,Bacharelado,Calculo Diferencial e Integral II,50
+SABARA,Sistemas de Informacao,Bacharelado,Desenvolvimento de Aplicativo Moveis,50
+SABARA,Sistemas de Informacao,Bacharelado,Engenharia de Software II,50
+SABARA,Sistemas de Informacao,Bacharelado,Etica e Legislacao,50
+SABARA,Sistemas de Informacao,Bacharelado,Fundamentos de Administracao,50
+SABARA,Sistemas de Informacao,Bacharelado,Fundamentos de Economia,50
+SABARA,Sistemas de Informacao,Bacharelado,Fundamentos de Matematica,50
+SABARA,Sistemas de Informacao,Bacharelado,Fundamentos de Sistemas de Informacao,50
+SABARA,Sistemas de Informacao,Bacharelado,Geometria Analitica e Algebra Linear,50
+SABARA,Sistemas de Informacao,Bacharelado,Gestao de Projetos,50
+SABARA,Sistemas de Informacao,Bacharelado,Inteligencia Artificial,50
+SABARA,Sistemas de Informacao,Bacharelado,Interacao Humano Computador,50
+SABARA,Sistemas de Informacao,Bacharelado,Matematica Discreta,50
+SABARA,Sistemas de Informacao,Bacharelado,Metodologia de Pesquisa,50
+SABARA,Sistemas de Informacao,Bacharelado,Programacao I,50
+SABARA,Sistemas de Informacao,Bacharelado,Programacao II,50
+SABARA,Sistemas de Informacao,Bacharelado,Programacao III,50
+SABARA,Sistemas de Informacao,Bacharelado,Programacao Web I,50
+SABARA,Sistemas de Informacao,Bacharelado,Projeto e Analise de Algoritmos,50
+SABARA,Sistemas de Informacao,Bacharelado,Redes de Computadores II,50
+SABARA,Sistemas de Informacao,Bacharelado,Seguranca e Auditoria de Sistemas,50
+SABARA,Sistemas de Informacao,Bacharelado,Topicos Avancados em Arquitetura de Computadores e Sistemas Operacionais,50
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Cartografia e Topografia,30
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Conforto Ambiental I,45
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Disciplina Extensiva 01,45
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Disciplina Extensiva 02,45
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Disciplina Extensiva 03,45
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Espaco e sociedade,30
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Estudio 01,90
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Estudio 03,45
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Estudio 05,45
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Estudio 07,105
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Estudio X: topicos projetuais 01,45
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Estudio X: topicos projetuais 03,45
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Estudos socioambientais,45
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Historia da Arquitetura e da Cidade 02,60
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Instalacoes Prediais: eletricas,30
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Instalacoes Prediais: hidraulico-sanitarias,30
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Introducao ao Desenho Urbano,30
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Laboratorios do Trabalho de Conclusao de Curso 01: metodos e procedimentos,60
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Laboratorios do Trabalho de Conclusao de Curso 02: Imagem e texto,60
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Materiais,60
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Metodologia cientifica e producao de textos,30
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Oficinas do Trabalho de Conclusao de Curso,30
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Pensamentos contemporaneos,45
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Pratica profissional e Empreendedorismo Social,30
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Processos de criacao e producao,45
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Representacoes 01,60
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Seminarios do Trabalho de Conclusao de Curso,30
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Sistemas Estruturais 02,60
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Teorias do Urbanismo,45
+SANTA LUZIA,Arquitetura e Urbanismo,Bacharelado,Topicos Especiais III: Estudos Socio-Historicos sobre o Direito a Cidade,45
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Conforto Ambiental I,45
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Cor e Ambientacao,45
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Cultura Brasileira,60
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Desenho Arquitetonico,90
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Desenho de Observacao,60
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Ecodesign - Extensionista,30
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Ergonomia e Acessibilidade,45
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Gestao e Empreendedorismo - Extensionista,30
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Historia da Arte,60
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Historia do Mobiliario e do Objeto,60
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Informatica,30
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Introducao e Teoria do Design,90
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Maquetes e Modelos,30
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Metodologia do Trabalho Cientifico,30
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Pratica e Etica Profissional,30
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Projeto de Design de Interiores II,60
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Topicos Especiais II: Canteiro Experimental,30
+SANTA LUZIA,Design de Interiores,Superior de Tecnologia,Trabalho de Conclusao de Curso - Design de Interiores,120
+SANTA LUZIA,Engenharia Civil,Bacharelado,Calculo I,90
+SANTA LUZIA,Engenharia Civil,Bacharelado,Calculo III,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Calculo Numerico,45
+SANTA LUZIA,Engenharia Civil,Bacharelado,Concreto Armado I,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Concreto Armado II,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Desenho tecnico,30
+SANTA LUZIA,Engenharia Civil,Bacharelado,Eletrotecnica,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Engenharia Ambiental,45
+SANTA LUZIA,Engenharia Civil,Bacharelado,Estruturas de Madeira,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Estruturas Metalicas II,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Fisica Experimental I,45
+SANTA LUZIA,Engenharia Civil,Bacharelado,Fisica Experimental II,45
+SANTA LUZIA,Engenharia Civil,Bacharelado,Fisica II,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Fundacoes,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Geologia Aplicada,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Geometria analitica,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Hidraulica II,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Hidrologia Aplicada,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Instalacoes Hidraulicas Prediais,45
+SANTA LUZIA,Engenharia Civil,Bacharelado,Introducao a Engenharia Civil Extensionista,30
+SANTA LUZIA,Engenharia Civil,Bacharelado,Matematica Basica,30
+SANTA LUZIA,Engenharia Civil,Bacharelado,Materiais de Construcao Civil I,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Mecanica dos Fluidos,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Mecanica dos Solos I,75
+SANTA LUZIA,Engenharia Civil,Bacharelado,Mecanica Vetorial para Engenharia,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Metodologia do Trabalho Cientifico,30
+SANTA LUZIA,Engenharia Civil,Bacharelado,Programacao de Computadores,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Projeto Geometrico de Estradas,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Quimica Geral,45
+SANTA LUZIA,Engenharia Civil,Bacharelado,Resistencia dos Materiais II,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Seguranca do Trabalho,30
+SANTA LUZIA,Engenharia Civil,Bacharelado,Sistemas de Esgoto Sanitario e Drenagem Urbana,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Superior de Superior de Tecnologia das Construcoes II,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Teoria das Estruturas II,60
+SANTA LUZIA,Engenharia Civil,Bacharelado,Topicos especiais II: Aspectos geologicos-geotecnicos de risco,30
+SANTA LUZIA,Engenharia Civil,Bacharelado,Trabalho de Conclusao de Curso I,30
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,ADMINISTRACAO DE RISCOS,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,ADMINISTRACAO RURAL,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,AGRICULTURA FAMILIAR,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,COMPORTAMENTO E ETICA ORGANIZACIONAL,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,CONTABILIDADE BASICA,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,EMPREENDEDORISMO,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,EMPREENDEDORISMO PARA MEI,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,ESTATISTICA BASICA,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,ESTRATEGIA E PLANEJAMENTO DE NEGOCIOS,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,FUNDAMENTOS DE MATEMATICA,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,GESTAO DA CADEIA DE SUPRIMENTOS,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,GESTAO DA QUALIDADE,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,GESTAO DE PROCESSOS,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,GESTAO ESTRATEGICA,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,INFORMATICA APLICADA,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,INOVACAO E CRIATIVIDADE,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,MARKETING,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,MATEMATICA  FINANCEIRA,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,MERCADO DE CAPITAIS,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,OFICINA DE PRODUTOS II EXTENSAO,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,OFICINA DE PRODUTOS IV EXTENSAO,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,PESQUISA EM ADMINISTRACAO,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,PESQUISA OPERACIONAL,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,PORTUGUES INSTRUMENTAL,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,SOCIOLOGIA,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,TEORIAS DA ADMINISTRACAO,45
+SAO JOAO EVANGELISTA,Administracao,Bacharelado,TOPICOS ESPECIAIS EM ADMINISTRACAO I,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,ADMINISTRACAO E ECONOMIA RURAL,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,APICULTURA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,ATIVIDADE DE EXTENSAO I - INTRODUCAO A EXTENSAO NA AGRONOMIA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,BIOLOGIA CELULAR,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,BIOQUIMICA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,BOVINOCULTURA DE LEITE,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,CAFEICULTURA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,CALCULO I - FUNDAMENTOS DE MATEMATICA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,CONSERVACAO DO SOLO E AGUA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,CONSTRUCOES E INSTALACOES RURAIS,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,CULTIVO PROTEGIDO E HIDROPONIA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,CULTURA DE ALGODAO E CANA-DE-ACUCAR,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,"CULTURA DO ARROZ, MILHO E SORGO",45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,"CULTURA DO FEIJAO, SOJA E AMENDOIM",45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,ECOLOGIA BASICA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,EQUIDEOCULTURA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,ESTATISTICA BASICA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,ESTATISTICA EXPERIMENTAL,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,FERTILIDADE DO SOLO,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,FISICA I,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,FITOPATOLOGIA I,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,FORRAGICULTURA E PASTAGENS,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,FRUTICULTURA GERAL,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,FUNDAMENTOS DE CIENCIA DO SOLO,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,GENETICA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,HIDROLOGIA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,INTRODUCAO A AGRONOMIA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,IRRIGACAO E DRENAGEM,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,MECANIZACAO AGRICOLA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,MELHORAMENTO DE PLANTAS,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,MICROBIOLOGIA GERAL,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,MORFOLOGIA E SISTEMATICA VEGETAL,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,OLERICULTURA GERAL,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,PROPAGACAO DE PLANTAS,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,QUIMICA ANALITICA,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,QUIMICA GERAL,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,RECEITUARIO E Superior de Superior de Tecnologia DE APLICACAO DE DEFENSIVOS AGRICOLAS,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,SISTEMAS E PRATICAS SILVICULTURAIS,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,SOCIOLOGIA E EXTENSAO RURAL,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,Superior de Superior de Tecnologia DE PRODUTOS AGROPECUARIOS,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,Superior de Superior de Tecnologia DE SEMENTES,45
+SAO JOAO EVANGELISTA,Agronomia,Bacharelado,ZOOLOGIA GERAL,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,ANTROPOLOGIA E EDUCACAO,40
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,BIOFISICA,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,BIOLOGIA CELULAR,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,BIOLOGIA DAS ESPERMATOFITAS,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,"BIOLOGIA DE ALGAS, BRIOFITAS E PTERIDOFITAS",45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,BIOLOGIA DO DESENVOLVIMENTO,40
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,BIOQUIMICA I,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,BIOSuperior de Superior de Tecnologia,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,EDUCACAO INCLUSIVA,40
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,ENSINO DE EVOLUCAO BIOLOGICA,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,ENSINO DE MATEMATICA NAS CIENCIAS DA NATUREZA,40
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,ESTRATEGIAS PARA O ENSINO DE BIOQUIMICA,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,FILOSOFIA DA EDUCACAO,40
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,FISIOLOGIA HUMANA,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,FORMACAO DE PROFESSORES DE BIOLOGIA,40
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,FUNDAMENTOS DE ASTRONOMIA,40
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,GEOPALENOTOLOGIA,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,HISTORIA DAS CIENCIAS NATURAIS,40
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,IMUNOLOGIA,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,INTRODUCAO A CIENCIAS BIOLOGICAS,40
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,LABORATORIO DE ENSINO DE BIOLOGIA II,40
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,LIBRAS,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,PRATICA DE ENSINO DE CIENCIAS E EXTENSAO II,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,PRATICA DE ENSINO DE CIENCIAS II,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,PSICOLOGIA DA EDUCACAO,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,SOCIOLOGIA DA EDUCACAO,40
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,ZOOLOGIA DOS INVERTEBRADOS I,45
+SAO JOAO EVANGELISTA,Ciencias Biologicas,Licenciatura,ZOOLOGIA DOS VERTEBRADOS I,40
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,ADMINISTRACAO FLORESTAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,AGROMETEOROLOGIA,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,CALCULO I - FUNDAMENTOS DE MATEMATICA,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,CALCULO II - DIFERENCIAL E INTEGRAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,CULTURAS FLORESTAIS,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,DENDROLOGIA,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,DESENHO TECNICO,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,ECOLOGIA FLORESTAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,ENTOMOLOGIA FLORESTAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,ENTOMOLOGIA GERAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,ESTATISTICA BASICA,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,FISICA DO SOLO,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,FISICA E MECANICA DA MADEIRA,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,FISICA I,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,FISIOLOGIA VEGETAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,FOTOGRAMETRIA E FOTOINTERPRETACAO,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,GEOPROCESSAMENTO E SENSORIAMENTO REMOTO,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,HISTOLOGIA E ANATOMIA VEGETAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,INTRODUCAO A ENGENHARIA FLORESTAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,INVENTARIO FLORESTAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,MANEJO FLORESTAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,MELHORAMENTO E BIOSuperior de Superior de Tecnologia FLORESTAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,METODOLOGIA CIENTIFICA,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,MORFOLOGIA E CLASSIFICACAO DO SOLO,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,PATOLOGIA FLORESTAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,POLITICA E LEGISLACAO FLORESTAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,PRODUTOS FLORESTAIS NAO MADEIREIROS,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,QUIMICA GERAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,QUIMICA ORGANICA,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,RESTAURACAO FLORESTAL,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,SISTEMAS E PRATICAS SILVICULTURAIS,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,SOCIOLOGIA,45
+SAO JOAO EVANGELISTA,Engenharia Florestal,Bacharelado,TOPOGRAFIA,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,ALGEBRA LINEAR,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,ANALISE COMBINATORIA,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,CALCULO I,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,CALCULO III,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,CALCULO NUMERICO,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,DESENHO GEOMETRICO,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,ENSINO DE GEOMETRIA E MEDIDAS E EXTENSAO,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,FISICA I,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,FUNDAMENTOS DE ANALISE,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,INTERVENCAO PEDAGOGICA EM MATEMATICA,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,INVESTIGACAO EM EDUCACAO MATEMATICA,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,LOGICA MATEMATICA,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,MATEMATICA FINANCEIRA,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,METODOLOGIAS ATIVAS DE ENSINO,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,PORTUGUES INSTRUMENTAL,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,PROJETO DE TRABALHO DE CONCLUSAO DE CURSO,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,RECURSOS COMPUTACIONAIS,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,REDACAO TECNICA-CIENTIFICO EM EDUCACAO MATEMATICA,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,RESOLUCAO DE PROBLEMAS,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,SEMINARIOS DE PESQUISA EM MATEMATICA,45
+SAO JOAO EVANGELISTA,Matematica,Licenciatura,TOPICOS EM EDUCACAO MATEMATICA,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,ALGEBRA LINEAR,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,ALGORITMOS E ESTRUTURAS DE DADOS II,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,ARQUITETURA DE COMPUTADORES,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,BANCOS DE DADOS I,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,CALCULO DIFERENCIAL E INTEGRAL I,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,DESENVOLVIMENTO WEB II,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,EMPREENDEDORISMO E PLANO DE NEGOCIOS,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,ENGENHARIA DE SOFTWARE II,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,ETICA E LEGISLACAO,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,EVENTOS EXTENSIONISTAS I,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,GERENCIA DE PROJETOS,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,GESTAO DE PESSOAS,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,GESTAO DE PESSOAS,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,INTELIGENCIA ARTIFICIAL,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,INTRODUCAO A COMPUTACAO,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,INTRODUCAO A PROGRAMACAO,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,INTRODUCAO A PROGRAMACAO COM PROCESSING,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,LINGUAGEM DE PROGRAMACAO II,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,LOGICA MATEMATICA,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,MATEMATICA DISCRETA,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,METODOLOGIA CIENTIFICA,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,ORGANIZACAO DE ATIVIDADES EXTENSIONISTAS,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,PORTUGUES INSTRUMENTAL,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,REDES DE COMPUTADORES II,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,ROBOTICA,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,SISTEMAS OPERACIONAIS,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,TRABALHO DE CONCLUSAO DE CURSO I,45
+SAO JOAO EVANGELISTA,Sistemas de Informacao,Bacharelado,TRABALHO DE CONCLUSAO DE CURSO II,45

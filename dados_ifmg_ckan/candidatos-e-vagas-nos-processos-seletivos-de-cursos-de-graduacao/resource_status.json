@@ -1,0 +1,45 @@
+{
+  "dataset": "candidatos-e-vagas-nos-processos-seletivos-de-cursos-de-graduacao",
+  "resources": [
+    {
+      "id": "c7c56188-1381-4c62-8b46-abf30c683c7c",
+      "name": "Candidatos e Vagas nos Processos Seletivos de Cursos de Graduação",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8e24ca57-6868-4f37-b268-0d297552bee9/resource/c7c56188-1381-4c62-8b46-abf30c683c7c/download/conjunto-de-dados-candidatos-e-vagas-cursos-tecnicos.html",
+      "saved_path": "dados_ifmg_ckan/candidatos-e-vagas-nos-processos-seletivos-de-cursos-de-graduacao/resources/conjunto-de-dados-candidatos-e-vagas-cursos-tecnicos.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "c1e3ff07-f478-4e5b-8ea8-8ce897a7cd3a",
+      "name": "Candidatos e Vagas no Processo Seletivo de Cursos de Graduação (2024.1)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8e24ca57-6868-4f37-b268-0d297552bee9/resource/c1e3ff07-f478-4e5b-8ea8-8ce897a7cd3a/download/conjunto-de-dados-candidatos-e-vagas-cursos-tecnicos.csv",
+      "saved_path": "dados_ifmg_ckan/candidatos-e-vagas-nos-processos-seletivos-de-cursos-de-graduacao/resources/conjunto-de-dados-candidatos-e-vagas-cursos-tecnicos.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "afdfedad-e03f-44f2-8d2e-475f503adbc3",
+      "name": "Candidatos e Vagas no Processo Seletivo de Cursos de Graduação (2024.1)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8e24ca57-6868-4f37-b268-0d297552bee9/resource/afdfedad-e03f-44f2-8d2e-475f503adbc3/download/conjunto-de-dados-candidatos-e-vagas-cursos-tecnicos.json",
+      "saved_path": "dados_ifmg_ckan/candidatos-e-vagas-nos-processos-seletivos-de-cursos-de-graduacao/resources/conjunto-de-dados-candidatos-e-vagas-cursos-tecnicos.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "685d6664-20ee-44f0-bf01-555457f0718f",
+      "name": "Candidatos e Vagas no Processo Seletivo de Cursos de Graduação (2024.2)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8e24ca57-6868-4f37-b268-0d297552bee9/resource/685d6664-20ee-44f0-bf01-555457f0718f/download/candidatos-e-vagas-cursos-de-graduacao-2024-2.xlsx",
+      "saved_path": "dados_ifmg_ckan/candidatos-e-vagas-nos-processos-seletivos-de-cursos-de-graduacao/resources/candidatos-e-vagas-cursos-de-graduacao-2024-2.xlsx",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "9a35b03a-95f5-4506-809c-18f7f6a58a3e",
+      "name": "Candidatos e Vagas no Processo Seletivo de Cursos de Graduação (2024.2)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/8e24ca57-6868-4f37-b268-0d297552bee9/resource/9a35b03a-95f5-4506-809c-18f7f6a58a3e/download/candidatos-e-vagas-cursos-de-graduacao-2024-2.json",
+      "saved_path": "dados_ifmg_ckan/candidatos-e-vagas-nos-processos-seletivos-de-cursos-de-graduacao/resources/candidatos-e-vagas-cursos-de-graduacao-2024-2.json",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

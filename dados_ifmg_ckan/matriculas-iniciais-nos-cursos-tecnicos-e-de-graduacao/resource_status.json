@@ -1,0 +1,29 @@
+{
+  "dataset": "matriculas-iniciais-nos-cursos-tecnicos-e-de-graduacao",
+  "resources": [
+    {
+      "id": "972ad694-db19-43b4-8a6e-58ac715c5568",
+      "name": "Matrículas Iniciais nos Cursos Técnicos e de Graduação",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/6ec026d6-ef69-42c1-9cb2-d6c4a6f70ea6/resource/972ad694-db19-43b4-8a6e-58ac715c5568/download/conjunto-de-dados-matriculas-iniciais-nos-cursos-tecnicos-e-de-graduacao.html",
+      "saved_path": "dados_ifmg_ckan/matriculas-iniciais-nos-cursos-tecnicos-e-de-graduacao/resources/conjunto-de-dados-matriculas-iniciais-nos-cursos-tecnicos-e-de-graduacao.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "0bfa4744-26bc-4181-b75e-6cd7de0d8b84",
+      "name": "Matrículas Iniciais nos Cursos Técnicos e de Graduação (2024.1)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/6ec026d6-ef69-42c1-9cb2-d6c4a6f70ea6/resource/0bfa4744-26bc-4181-b75e-6cd7de0d8b84/download/conjunto-de-dados-matriculas-iniciais-nos-cursos-tecnicos-e-de-graduacao.csv",
+      "saved_path": "dados_ifmg_ckan/matriculas-iniciais-nos-cursos-tecnicos-e-de-graduacao/resources/conjunto-de-dados-matriculas-iniciais-nos-cursos-tecnicos-e-de-graduacao.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "4387d784-a8a3-4d89-a7aa-5238ac4aa188",
+      "name": "Matrículas Iniciais nos Cursos Técnicos e de Graduação (2024.1)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/6ec026d6-ef69-42c1-9cb2-d6c4a6f70ea6/resource/4387d784-a8a3-4d89-a7aa-5238ac4aa188/download/conjunto-de-dados-matriculas-iniciais-nos-cursos-tecnicos-e-de-graduacao.json",
+      "saved_path": "dados_ifmg_ckan/matriculas-iniciais-nos-cursos-tecnicos-e-de-graduacao/resources/conjunto-de-dados-matriculas-iniciais-nos-cursos-tecnicos-e-de-graduacao.json",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

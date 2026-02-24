@@ -1,0 +1,29 @@
+{
+  "dataset": "disciplinas-dos-cursos-de-grduacao",
+  "resources": [
+    {
+      "id": "2dfc4a26-1b87-49a3-a7c1-3fb2a4557a46",
+      "name": "Disciplinas dos Cursos de Graduação",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/82ba4ef8-1d20-4af5-862e-4ef3f8a24663/resource/2dfc4a26-1b87-49a3-a7c1-3fb2a4557a46/download/conjunto-de-dados-disciplinas-dos-cursos-de-graduacao.html",
+      "saved_path": "dados_ifmg_ckan/disciplinas-dos-cursos-de-grduacao/resources/conjunto-de-dados-disciplinas-dos-cursos-de-graduacao.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "1e501e0d-e5b1-4be8-8017-7911ce2233e7",
+      "name": "Disciplinas dos Cursos de Graduação (2024.1)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/82ba4ef8-1d20-4af5-862e-4ef3f8a24663/resource/1e501e0d-e5b1-4be8-8017-7911ce2233e7/download/conjunto-de-dados-disciplinas-dos-cursos-de-graduacao.csv",
+      "saved_path": "dados_ifmg_ckan/disciplinas-dos-cursos-de-grduacao/resources/conjunto-de-dados-disciplinas-dos-cursos-de-graduacao.csv",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "bc63f5de-a589-4404-b030-beafbcc18eaa",
+      "name": "Disciplinas dos Cursos Técnicos (2024.1)",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/82ba4ef8-1d20-4af5-862e-4ef3f8a24663/resource/bc63f5de-a589-4404-b030-beafbcc18eaa/download/conjunto-de-dados-disciplinas-dos-cursos-de-graduacao.json",
+      "saved_path": "dados_ifmg_ckan/disciplinas-dos-cursos-de-grduacao/resources/conjunto-de-dados-disciplinas-dos-cursos-de-graduacao.json",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

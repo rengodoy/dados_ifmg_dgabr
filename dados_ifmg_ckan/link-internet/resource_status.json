@@ -1,0 +1,29 @@
+{
+  "dataset": "link-internet",
+  "resources": [
+    {
+      "id": "b2f9bfea-a639-4492-98ee-871e1ac93a40",
+      "name": "link_internet_2024_html",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/73072b7a-f3a2-43ec-86db-54a47ed08198/resource/b2f9bfea-a639-4492-98ee-871e1ac93a40/download/conjunto-de-dados-links-de-internet.html",
+      "saved_path": "dados_ifmg_ckan/link-internet/resources/conjunto-de-dados-links-de-internet.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "6d846cce-fd03-46d2-8a28-16680addc529",
+      "name": "link_internet_2024_json",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/73072b7a-f3a2-43ec-86db-54a47ed08198/resource/6d846cce-fd03-46d2-8a28-16680addc529/download/conjunto-de-dados-links-de-internet.json",
+      "saved_path": "dados_ifmg_ckan/link-internet/resources/conjunto-de-dados-links-de-internet.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "id": "12d5f742-a34a-4e61-a5e3-ae8ca500cf76",
+      "name": "link_internet_2024_csv",
+      "url": "http://dadosabertos.ifmg.edu.br/dataset/73072b7a-f3a2-43ec-86db-54a47ed08198/resource/12d5f742-a34a-4e61-a5e3-ae8ca500cf76/download/conjunto-de-dados-links-de-internet.csv",
+      "saved_path": "dados_ifmg_ckan/link-internet/resources/conjunto-de-dados-links-de-internet.csv",
+      "ok": true,
+      "error": null
+    }
+  ]
+}
